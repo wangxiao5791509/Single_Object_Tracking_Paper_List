@@ -23,11 +23,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **Ocean:** Zhang et al. Ocean: Object-aware Anchor-free Tracking, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660766.pdf)] [[Code](https://github.com/researchmm/TracKit)] 
 
-* **???:** Liu et al. Object Tracking using Spatio-Temporal Networks for Future Prediction Location, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)] [[Code]()] 
+* **???:** Liu et al. Object Tracking using Spatio-Temporal Networks for Future Prediction Location, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
 
-* **???:**  Li et al. Challenge-Aware RGBT Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)] [[Code]()] 
+* **???:**  Li et al. Challenge-Aware RGBT Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)] 
 
-* **PG-Net:**  Liao et al. PG-Net: Pixel to Global Matching Network for Visual Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)] [[Code]()] 
+* **PG-Net:**  Liao et al. PG-Net: Pixel to Global Matching Network for Visual Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)]
 
 * **KYS:**  Goutam Bhat, Martin Danelljan, Luc Van Gool, and Radu Timofte, Know Your Surroundings: Exploiting Scene Information for Object Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf)] [[Code](https://github.com/visionml/pytracking)]  
 
