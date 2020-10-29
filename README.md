@@ -1,13 +1,29 @@
 # Single_Object_Tracking_Paper_List
 Paper list for single object tracking (Modified from [[benchmark_results](https://github.com/foolwood/benchmark_results)] and continue to Update this list) 
 
-![fontIMG](recent_Tracker_development.png) 
 
 ### NIPS2020
 
 
 
 ### ECCV2020
+* **SPARK: ** Guo, Qing, et al. "SPARK: Spatial-aware online incremental attack against visual tracking." [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700205.pdf)] 
+
+* **PCT: ** Kang Il Lee, Jung Ho Jeon and Byung Cheol Song, Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)] 
+
+* **RTAA: ** Shuai Jia, Chao Ma, Yibing Song, and Xiaokang Yang, Robust Tracking against Adversarial Attacks, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640069.pdf)] [[Code](https://github.com/joshuajss/RTAA)] 
+
+* **Ocean: ** Zhang et al. Ocean: Object-aware Anchor-free Tracking, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660766.pdf)] [[Code](https://github.com/researchmm/TracKit)] 
+
+* **???: ** Liu et al. Object Tracking using Spatio-Temporal Networks for Future Prediction Location, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)] [[Code]()] 
+
+* **???: **  Li et al. Challenge-Aware RGBT Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)] [[Code]()] 
+
+* **PG-Net: **  Liao et al. PG-Net: Pixel to Global Matching Network for Visual Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)] [[Code]()] 
+
+* **KYS: **  Goutam Bhat, Martin Danelljan, Luc Van Gool, and Radu Timofte, Know Your Surroundings: Exploiting Scene Information for Object Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf)] [[Code](https://github.com/visionml/pytracking)]  
+
+* **FAN: ** Siyuan Liang, Xingxing Wei, Siyuan Yao, and Xiaochun Cao, Efficient Adversarial Attacks for Visual Object Tracking, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710035.pdf)]
 
 
 
