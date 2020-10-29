@@ -10,7 +10,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### NIPS2020
-* ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning, [[Paper]()] [[Code]()]
+* ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning,
 
 
 
@@ -84,6 +84,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
   "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020).
   [[paper](https://arxiv.org/pdf/1911.06188v4.pdf)]
   [[code](https://github.com/MegviiDetection/video_analyst)]
+  
+ - **GlobalTrack:** Huang, Lianghua, Xin Zhao, and Kaiqi Huang. <br />
+ "GlobalTrack: A simple and strong baseline for long-term tracking." AAAI (2020).
 
 
 ### ICCV2019
@@ -131,7 +134,6 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
   [[code](https://github.com/XU-TIANYANG/GFS-DCF)]
 
 * **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
-
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
 
@@ -166,7 +168,6 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **GCT:** Junyu Gao, Tianzhu Zhang, Changsheng Xu.<br />
   "Graph Convolutional Tracking." CVPR (2019 **oral**).
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Graph_Convolutional_Tracking_CVPR_2019_paper.pdf)]
-  [[code](https://github.com/researchmm/SiamDW)]
 
 * **ASRCF:** Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. <br />
   "Visual Tracking via Adaptive Spatially-Regularized Correlation Filters." CVPR (2019 **oral**).
