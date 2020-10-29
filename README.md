@@ -86,7 +86,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
   [[code](https://github.com/MegviiDetection/video_analyst)]
   
  - **GlobalTrack:** Huang, Lianghua, Xin Zhao, and Kaiqi Huang. <br />
- "GlobalTrack: A simple and strong baseline for long-term tracking." AAAI (2020).
+ "GlobalTrack: A simple and strong baseline for long-term tracking." AAAI (2020). [[Paper](https://arxiv.org/pdf/1912.08531.pdf)] [[Code](https://github.com/huanglianghua/GlobalTrack)]
 
 
 ### ICCV2019
