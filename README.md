@@ -36,6 +36,46 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### CVPR2020
+* **SiamCAR:** SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking <br />
+Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_SiamCAR_Siamese_Fully_Convolutional_Classification_and_Regression_for_Visual_Tracking_CVPR_2020_paper.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamCAR)] 
+
+* **LTMU:** High-Performance Long-Term Tracking With Meta-Updater <br /> 
+Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dai_High-Performance_Long-Term_Tracking_With_Meta-Updater_CVPR_2020_paper.pdf)]
+[[Code](https://github.com/Daikenan/LTMU)] 
+
+* **???:** Joint Spatial-Temporal Optimization for Stereo 3D Object Tracking, 
+Peiliang Li, Jieqi Shi, Shaojie Shen 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Joint_Spatial-Temporal_Optimization_for_Stereo_3D_Object_Tracking_CVPR_2020_paper.pdf)]
+
+* **P2B** P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds
+Haozhe Qi, Chen Feng, Zhiguo Cao, Feng Zhao, Yang Xiao 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.pdf)]
+[[Code](https://github.com/HaozheQi/P2B)]
+
+* **???:** Correlation-Guided Attention for Corner Detection Based Visual Tracking
+Fei Du, Peng Liu, Wei Zhao, Xianglong Tang 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Du_Correlation-Guided_Attention_for_Corner_Detection_Based_Visual_Tracking_CVPR_2020_paper.pdf)] 
+
+* **???:** One-Shot Adversarial Attacks on Visual Tracking With Dual Attention, 
+Xuesong Chen, Xiyu Yan, Feng Zheng, Yong Jiang, Shu-Tao Xia, Yong Zhao, Rongrong Ji
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_One-Shot_Adversarial_Attacks_on_Visual_Tracking_With_Dual_Attention_CVPR_2020_paper.pdf)] 
+ 
+* **FTMU:** Fast Template Matching and Update for Video Object Tracking and Segmentation
+Mingjie Sun, Jimin Xiao, Eng Gee Lim, Bingfeng Zhang, Yao Zhao 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Fast_Template_Matching_and_Update_for_Video_Object_Tracking_and_CVPR_2020_paper.pdf)] 
+[[Code](https://github.com/insomnia94/FTMU)]
+
+
+* **???:** Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking
+Jin Gao, Weiming Hu, Yan Lu 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Recursive_Least-Squares_Estimator-Aided_Online_Learning_for_Visual_Tracking_CVPR_2020_paper.pdf)] 
+
+* **3D-ZeF** 3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset
+Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf)]
+[[Dataset](https://vap.aau.dk/3d-zef/)]
+
 
 * **MAML:** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng.<br />
   "Tracking by Instance Detection: A Meta-Learning Approach." CVPR (2020 **Oral**).
@@ -58,7 +98,8 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **ROAM:** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan.<br />
   "ROAM: Recurrently Optimizing Tracking Model." CVPR (2020).
-  [[paper](https://arxiv.org/pdf/1907.12006v3.pdf)]
+  [[paper](https://arxiv.org/pdf/1907.12006v3.pdf)] 
+  [[Code](https://github.com/skyoung/ROAM)] [[Author-Homepage](https://tianyu-yang.com/)] 
 
 * **AutoTrack:** Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu.<br />
   "AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization." CVPR (2020).
