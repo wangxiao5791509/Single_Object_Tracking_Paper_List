@@ -132,6 +132,13 @@ Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund
 
 ### ICCV2019
 
+* **???:** Deformable Surface Tracking by Graph Matching, Tao Wang, Haibin Ling, Congyan Lang, Songhe Feng, Xiaohui Hou, 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Deformable_Surface_Tracking_by_Graph_Matching_ICCV_2019_paper.pdf)]  
+
+* **:** Deep Meta Learning for Real-Time Target-Aware Visual Tracking, Janghoon Choi, Junseok Kwon, Kyoung Mu Lee 
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Deep_Meta_Learning_for_Real-Time_Target-Aware_Visual_Tracking_ICCV_2019_paper.pdf)]
+
+
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
   "Learning Discriminative Model Prediction for Tracking." ICCV (2019 **oral**). 
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhat_Learning_Discriminative_Model_Prediction_for_Tracking_ICCV_2019_paper.pdf)]
