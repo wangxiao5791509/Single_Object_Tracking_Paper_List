@@ -216,6 +216,8 @@ Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund
 * **GCT:** Junyu Gao, Tianzhu Zhang, Changsheng Xu.<br />
   "Graph Convolutional Tracking." CVPR (2019 **oral**).
   [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_Graph_Convolutional_Tracking_CVPR_2019_paper.pdf)]
+  [[Code](http://nlpr-web.ia.ac.cn/mmc/homepage/jygao/JY_Gao_files/code_GCT.zip)] 
+  [[Project](http://nlpr-web.ia.ac.cn/mmc/homepage/jygao/gct_cvpr2019.html)]
 
 * **ASRCF:** Kenan Dai, Dong Wang, Huchuan Lu, Chong Sun, Jianhua Li. <br />
   "Visual Tracking via Adaptive Spatially-Regularized Correlation Filters." CVPR (2019 **oral**).
