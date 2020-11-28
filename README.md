@@ -13,6 +13,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning,
 
 
+### IJCAI-2020
+* **TLPG-Tracker**: Joint Learning of Target Localization and Proposal Generation for Visual Tracking, Li, S., Zhang, Z., Liu, Z., Wang, A., Qiu, L., & Du, F. [[Paper](https://www.ijcai.org/Proceedings/2020/0099.pdf)]
+
+
 
 ### ECCV2020
 * **SPARK:** Guo, Qing, et al. "SPARK: Spatial-aware online incremental attack against visual tracking." [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700205.pdf)] 
