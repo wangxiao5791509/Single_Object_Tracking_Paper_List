@@ -2,8 +2,10 @@
 Paper list for single object tracking (Modified from [[benchmark_results](https://github.com/foolwood/benchmark_results)] and continue to Update this list) 
 
 
+### Pre-print: 
+* Fan H, Miththanthaya H A, Rajan S R, et al. Transparent Object Tracking Benchmark[J]. arXiv preprint arXiv:2011.10875, 2020., [[Paper](https://arxiv.org/pdf/2011.10875.pdf)]
 
-
+* Dunnhofer M, Furnari A, Farinella G M, et al. Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset[J]. arXiv preprint arXiv:2011.12263, 2020. [[Paper](https://arxiv.org/pdf/2011.12263)]
 
 
 
