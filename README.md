@@ -127,13 +127,15 @@ Malte Pedersen, Joakim Bruslund Haurum, Stefan Hein Bengtson, Thomas B. Moeslund
 
 ### AAAI 2020
 
-- **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu. <br />
+* **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu. <br />
   "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020).
   [[paper](https://arxiv.org/pdf/1911.06188v4.pdf)]
   [[code](https://github.com/MegviiDetection/video_analyst)]
   
- - **GlobalTrack:** Huang, Lianghua, Xin Zhao, and Kaiqi Huang. <br />
+* **GlobalTrack:** Huang, Lianghua, Xin Zhao, and Kaiqi Huang. <br />
  "GlobalTrack: A simple and strong baseline for long-term tracking." AAAI (2020). [[Paper](https://arxiv.org/pdf/1912.08531.pdf)] [[Code](https://github.com/huanglianghua/GlobalTrack)]
+ 
+* **DROL** Discriminative and Robust Online Learning for Siamese Visual Tracking, Jinghao Zhou, Peng Wang, Haoyang Sun[[Paper](https://arxiv.org/pdf/1909.02959.pdf)] [[Code](https://github.com/shallowtoil/DROL)]
 
 
 ### ICCV2019
