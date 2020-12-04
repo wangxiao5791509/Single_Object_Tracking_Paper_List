@@ -12,7 +12,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### NIPS2020
-* ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning,
+* ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning, [[Paper](https://proceedings.neurips.cc//paper/2020/file/885b2c7a6deb4fea10f319c4ce993e02-Paper.pdf)] [[Project](https://vsislab.github.io/DTNet/)] [[Code]()]
 
 
 ### IJCAI-2020
