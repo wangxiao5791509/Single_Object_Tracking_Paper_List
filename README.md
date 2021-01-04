@@ -9,6 +9,15 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 
+### AAAI2021 
+* Model Uncertainty Guides Visual Object Tracking, Lijun Zhou, Antoine Ledent, Qintao Hu, Ting Liu, Jianlin Zhang, Marius Kloft 
+
+* Towards Universal Physical Attacks on Single Object Tracking, Li Ding, Yongwei Wang, Kaiwen Yuan, Minyang Jiang, Ping Wang, Hua Huang, Z. Jane Wang
+
+* Visual Tracking via Hierarchical Deep Reinforcement Learning, Dawei Zhang, Zhonglong Zheng, Riheng Jia, Minglu Li 
+
+* A Unified Multi-Scenario Attacking Network for Visual Object Tracking, Xuesong Chen, Canmiao Fu, Feng Zheng, Yong Zhao, Hongsheng Li, Ping Luo, Guo-Jun Qi
+
 
 
 ### NIPS2020
