@@ -7,6 +7,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * Dunnhofer M, Furnari A, Farinella G M, et al. Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset[J]. arXiv preprint arXiv:2011.12263, 2020. [[Paper](https://arxiv.org/pdf/2011.12263)]
 
+* Anti-UAV: A Large Multi-Modal Benchmark for UAV Tracking, Nan Jiang, Kuiran Wang, Xiaoke Peng, Xuehui Yu, Qiang Wang, Junliang Xing, Guorong Li, Guodong Guo, Jian Zhao, Zhenjun Han [[Paper](https://arxiv.org/abs/2101.08466)] 
+
+* All-Day Object Tracking for Unmanned Aerial Vehicle, Bowen Li, Changhon Fu, Fangqiang Ding, Junjie Ye, Fuling Lin [[Paper](https://arxiv.org/abs/2101.08446)]
+
 
 
 ### AAAI2021 
