@@ -13,6 +13,18 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 
+### CVPR2021
+* **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
+
+* **TNL2K**: Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark， Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu 
+
+* **TransformerTrack**: Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Code](https://github.com/594422814/TransformerTrack)] 
+
+* **TransT**:  - Transformer Tracking, [[Code](https://github.com/chenxin-dlut/TransT)]
+
+
+
+
 ### AAAI2021 
 * Model Uncertainty Guides Visual Object Tracking, Lijun Zhou, Antoine Ledent, Qintao Hu, Ting Liu, Jianlin Zhang, Marius Kloft 
 
