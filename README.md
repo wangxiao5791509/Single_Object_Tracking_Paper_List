@@ -18,7 +18,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **TNL2K**: Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark， Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu 
 
-* **TransformerTrack**: Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Code](https://github.com/594422814/TransformerTrack)] 
+* **TransformerTrack**: Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Paper](https://arxiv.org/abs/2103.11681)] [[Code](https://github.com/594422814/TransformerTrack)] 
 
 * **TransT**:  - Transformer Tracking, [[Code](https://github.com/chenxin-dlut/TransT)]
 
