@@ -26,7 +26,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **TransformerTrack**: Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Paper](https://arxiv.org/abs/2103.11681)] [[Code](https://github.com/594422814/TransformerTrack)] 
 
-* **TransT**:  - Transformer Tracking, [[Code](https://github.com/chenxin-dlut/TransT)]
+* **TransT**:  - Transformer Tracking, [[Paper](https://arxiv.org/abs/2103.15436)] [[Code](https://github.com/chenxin-dlut/TransT)]
 
 * **SNLT**: Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers [[Paper](https://arxiv.org/pdf/1912.02048.pdf)] [[Code](https://github.com/fredfung007/snlt)]
 
