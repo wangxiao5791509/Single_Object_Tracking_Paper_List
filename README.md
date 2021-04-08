@@ -28,6 +28,8 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **TransT**:  - Transformer Tracking, [[Code](https://github.com/chenxin-dlut/TransT)]
 
+* **SNLT**: Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers [[Paper](https://arxiv.org/pdf/1912.02048.pdf)] [[Code](https://github.com/fredfung007/snlt)]
+
 
 
 
