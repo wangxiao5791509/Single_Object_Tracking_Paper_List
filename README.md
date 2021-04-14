@@ -18,7 +18,6 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### CVPR2021
-* **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
 
 * **TNL2K**: Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark， Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, [[Paper](https://arxiv.org/pdf/2103.16746.pdf)]
 [[Project](https://sites.google.com/view/langtrackbenchmark/)]
@@ -31,6 +30,12 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **TransT**:  - Transformer Tracking, [[Paper](https://arxiv.org/abs/2103.15436)] [[Code](https://github.com/chenxin-dlut/TransT)]
 
 * **SNLT**: Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers [[Paper](https://arxiv.org/pdf/1912.02048.pdf)] [[Code](https://github.com/fredfung007/snlt)]
+
+* IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking, Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang, [[Paper](https://arxiv.org/pdf/2103.14938.pdf)] [[Code](https://github.com/VISION-SJTU/IoUattack)] 
+
+* Rotation Equivariant Siamese Networks for Tracking, Deepak K. Gupta, Devanshu Arya, Efstratios Gavves, [[Paper](https://arxiv.org/abs/2012.13078)] 
+
+* **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
 
 
 
