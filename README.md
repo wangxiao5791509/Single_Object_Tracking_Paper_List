@@ -11,7 +11,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * Anti-UAV: A Large Multi-Modal Benchmark for UAV Tracking, Nan Jiang, Kuiran Wang, Xiaoke Peng, Xuehui Yu, Qiang Wang, Junliang Xing, Guorong Li, Guodong Guo, Jian Zhao, Zhenjun Han [[Paper](https://arxiv.org/abs/2101.08466)] 
 
-* All-Day Object Tracking for Unmanned Aerial Vehicle, Bowen Li, Changhon Fu, Fangqiang Ding, Junjie Ye, Fuling Lin [[Paper](https://arxiv.org/abs/2101.08446)]
+* All-Day Object Tracking for Unmanned Aerial Vehicle, Bowen Li, Changhon Fu, Fangqiang Ding, Junjie Ye, Fuling Lin [[Paper](https://arxiv.org/abs/2101.08446)] 
+
+* Learning Target Candidate Association to Keep Track of What Not to Track, Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool, [[Paper](https://arxiv.org/pdf/2103.16556.pdf)]
 
 
 
