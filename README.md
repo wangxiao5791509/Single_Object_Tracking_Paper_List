@@ -37,6 +37,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
 
+* STMTrack: Template-free Visual Tracking with Space-time Memory Networks, Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang [[Paper](https://arxiv.org/abs/2104.00324)] [[Code](https://github.com/fzh0917/STMTrack)]
+
+
 
 
 
