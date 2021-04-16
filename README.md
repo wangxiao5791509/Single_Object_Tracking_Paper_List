@@ -27,17 +27,22 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **TransformerTrack**: Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Paper](https://arxiv.org/abs/2103.11681)] [[Code](https://github.com/594422814/TransformerTrack)] 
 
-* **TransT**:  - Transformer Tracking, [[Paper](https://arxiv.org/abs/2103.15436)] [[Code](https://github.com/chenxin-dlut/TransT)]
+* **TransT**: Transformer Tracking, [[Paper](https://arxiv.org/abs/2103.15436)] [[Code](https://github.com/chenxin-dlut/TransT)]
 
 * **SNLT**: Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers [[Paper](https://arxiv.org/pdf/1912.02048.pdf)] [[Code](https://github.com/fredfung007/snlt)]
 
-* IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking, Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang, [[Paper](https://arxiv.org/pdf/2103.14938.pdf)] [[Code](https://github.com/VISION-SJTU/IoUattack)] 
+* **IoU Attack**: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking, Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang, [[Paper](https://arxiv.org/pdf/2103.14938.pdf)] [[Code](https://github.com/VISION-SJTU/IoUattack)] 
 
 * Rotation Equivariant Siamese Networks for Tracking, Deepak K. Gupta, Devanshu Arya, Efstratios Gavves, [[Paper](https://arxiv.org/abs/2012.13078)] 
 
 * **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
 
-* STMTrack: Template-free Visual Tracking with Space-time Memory Networks, Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang [[Paper](https://arxiv.org/abs/2104.00324)] [[Code](https://github.com/fzh0917/STMTrack)]
+* **STMTrack**: Template-free Visual Tracking with Space-time Memory Networks, Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang [[Paper](https://arxiv.org/abs/2104.00324)] [[Code](https://github.com/fzh0917/STMTrack)] 
+
+* **Alpha-Refine**: Boosting Tracking Performance by Precise Bounding Box Estimation, Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang, CVPR2021 [[Paper](https://arxiv.org/abs/2012.06815)] [[Code](https://github.com/MasterBin-IIAU/AlphaRefine)] 
+
+* **LightTrack**: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search, Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, CVPR2021 [[Paper]()] [[Code](https://github.com/researchmm/LightTrack)] 
+
 
 
 
