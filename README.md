@@ -35,7 +35,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **IoU Attack**: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking, Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang, [[Paper](https://arxiv.org/pdf/2103.14938.pdf)] [[Code](https://github.com/VISION-SJTU/IoUattack)] 
 
-* Rotation Equivariant Siamese Networks for Tracking, Deepak K. Gupta, Devanshu Arya, Efstratios Gavves, [[Paper](https://arxiv.org/abs/2012.13078)] 
+* Rotation Equivariant Siamese Networks for Tracking, Deepak K. Gupta, Devanshu Arya, Efstratios Gavves, [[Paper](https://arxiv.org/abs/2012.13078)] [[Code](https://github.com/dkgupta90/re-siamnet)]
 
 * **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
 
