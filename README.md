@@ -43,7 +43,28 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **Alpha-Refine**: Boosting Tracking Performance by Precise Bounding Box Estimation, Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang, CVPR2021 [[Paper](https://arxiv.org/abs/2012.06815)] [[Code](https://github.com/MasterBin-IIAU/AlphaRefine)] 
 
-* **LightTrack**: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search, Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, CVPR2021 [[Paper]()] [[Code](https://github.com/researchmm/LightTrack)] 
+* **LightTrack**: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search, Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, CVPR2021 [[Paper]()] [[Code](https://github.com/researchmm/LightTrack)]
+
+* Progressive Unsupervised Learning for Visual Object Tracking, Qiangqiang Wu, Jia Wan, Antoni B. Chan 
+
+* Tracking Pedestrian Heads in Dense Crowd, Ramana Sundararaman, Cédric De Almeida Braga, Eric Marchand, Julien Pettré
+
+* MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking,	Jennifer Jang, Heinrich Jiang
+
+* Learning To Filter: Siamese Relation Network for Robust Tracking, Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang 
+
+* Polygonal Point Set Tracking	Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim
+ 
+* Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark	Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu
+
+* CapsuleRRT: Relationships-Aware Regression Tracking via Capsules	Ding Ma, Xiangqian Wu 
+
+* High-Fidelity Face Tracking for AR/VR via Deep Lighting Adaptation	Lele Chen, Chen Cao, Fernando De la Torre, Jason Saragih, Chenliang Xu, Yaser Sheikh 
+
+* 	Track, Check, Repeat: An EM Approach to Unsupervised Tracking	Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki 
+
+* 	Learning To Fuse Asymmetric Feature Maps in Siamese Trackers	Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen 
+
 
 
 
