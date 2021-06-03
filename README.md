@@ -49,23 +49,19 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * Progressive Unsupervised Learning for Visual Object Tracking, Qiangqiang Wu, Jia Wan, Antoni B. Chan 
 
-* Tracking Pedestrian Heads in Dense Crowd, Ramana Sundararaman, Cédric De Almeida Braga, Eric Marchand, Julien Pettré
+* MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking,	Jennifer Jang, Heinrich Jiang [[Paper](https://arxiv.org/pdf/2104.00303.pdf)]
 
-* MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking,	Jennifer Jang, Heinrich Jiang
-
-* Learning To Filter: Siamese Relation Network for Robust Tracking, Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang 
+* Learning To Filter: Siamese Relation Network for Robust Tracking, Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang, [[Paper](Learning to Filter: Siamese Relation Network for Robust Tracking)] [[Code](https://github.com/hqucv/siamrn)]
 
 * Polygonal Point Set Tracking	Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim
  
-* Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark	Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu
+* Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark	Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu, [[Paper](https://arxiv.org/pdf/2105.02440.pdf)] [[Code](https://github.com/VisDrone/DroneCrowd)]
 
 * CapsuleRRT: Relationships-Aware Regression Tracking via Capsules	Ding Ma, Xiangqian Wu 
 
-* High-Fidelity Face Tracking for AR/VR via Deep Lighting Adaptation	Lele Chen, Chen Cao, Fernando De la Torre, Jason Saragih, Chenliang Xu, Yaser Sheikh 
+* Track, Check, Repeat: An EM Approach to Unsupervised Tracking	Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki, [[Paper](https://arxiv.org/pdf/2104.03424.pdf)]
 
-* 	Track, Check, Repeat: An EM Approach to Unsupervised Tracking	Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki 
-
-* 	Learning To Fuse Asymmetric Feature Maps in Siamese Trackers	Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen 
+* Learning To Fuse Asymmetric Feature Maps in Siamese Trackers	Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen, [[Paper](https://arxiv.org/pdf/2012.02776.pdf)] [[Code](https://github.com/wencheng256/SiamBAN-ACM)]
 
 
 
