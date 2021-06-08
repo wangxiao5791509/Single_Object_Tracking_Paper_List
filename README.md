@@ -4,18 +4,6 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 ![fig-1](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List/blob/main/tracking_words.png)
 
 
-### Pre-print: 
-* Fan H, Miththanthaya H A, Rajan S R, et al. Transparent Object Tracking Benchmark[J]. arXiv preprint arXiv:2011.10875, 2020., [[Paper](https://arxiv.org/pdf/2011.10875.pdf)]
-
-* Dunnhofer M, Furnari A, Farinella G M, et al. Is First Person Vision Challenging for Object Tracking? The TREK-100 Benchmark Dataset[J]. arXiv preprint arXiv:2011.12263, 2020. [[Paper](https://arxiv.org/pdf/2011.12263)]
-
-* Anti-UAV: A Large Multi-Modal Benchmark for UAV Tracking, Nan Jiang, Kuiran Wang, Xiaoke Peng, Xuehui Yu, Qiang Wang, Junliang Xing, Guorong Li, Guodong Guo, Jian Zhao, Zhenjun Han [[Paper](https://arxiv.org/abs/2101.08466)] 
-
-* All-Day Object Tracking for Unmanned Aerial Vehicle, Bowen Li, Changhon Fu, Fangqiang Ding, Junjie Ye, Fuling Lin [[Paper](https://arxiv.org/abs/2101.08446)] 
-
-* Learning Target Candidate Association to Keep Track of What Not to Track, Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool, [[Paper](https://arxiv.org/pdf/2103.16556.pdf)]
-
-
 
 ### CVPR2021
 
