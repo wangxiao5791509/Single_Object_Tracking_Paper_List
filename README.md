@@ -31,8 +31,6 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **Alpha-Refine**: Boosting Tracking Performance by Precise Bounding Box Estimation, Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang, CVPR2021 [[Paper](https://arxiv.org/abs/2012.06815)] [[Code](https://github.com/MasterBin-IIAU/AlphaRefine)] 
 
-* **Stark**: Learning Spatio-Temporal Transformer for Visual Tracking, Yan, B., Peng, H., Fu, J., Wang, D., & Lu, H. (2021). [[Paper](https://arxiv.org/pdf/2103.17154)] [[Code](https://github.com/researchmm/Stark)]
-
 * **LightTrack**: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search, Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, CVPR2021 [[Paper]()] [[Code](https://github.com/researchmm/LightTrack)]
 
 * Progressive Unsupervised Learning for Visual Object Tracking, Qiangqiang Wu, Jia Wan, Antoni B. Chan [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
