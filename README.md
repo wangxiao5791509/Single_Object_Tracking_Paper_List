@@ -6,7 +6,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### ICCV-2021
-* **LTM** *： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming
+* **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming
 
 
 
