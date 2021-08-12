@@ -19,6 +19,8 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
     
 * Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code]()]
 
+* Object Tracking by Jointly Exploiting Frame and Event Domain, Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong, ICCV 2021 [[Project](https://zhangjiqing.com/dataset/)] [[Video](https://www.youtube.com/watch?v=EeMRO8XVv04&ab_channel=JiqingZhang)]
+
 
 
 ### CVPR-2021
