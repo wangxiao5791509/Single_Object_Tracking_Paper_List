@@ -4,6 +4,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 ![fig-1](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List/blob/main/tracking_words.png)
 
 
+### Pre-print: 
+* **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] 
+
 
 ### ICCV-2021
 * **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://arxiv.org/abs/2108.00803)] [[Code](https://github.com/JudasDie/SOTS)]
