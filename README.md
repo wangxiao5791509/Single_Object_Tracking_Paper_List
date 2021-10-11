@@ -9,7 +9,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### ICCV-2021
-* **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://arxiv.org/abs/2108.00803)] [[Code](https://github.com/JudasDie/SOTS)]
+* **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/JudasDie/SOTS)]
 * **ABA**: Learning to Adversarially Blur Visual Object Tracking, Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao, [[Paper](https://arxiv.org/pdf/2107.12085.pdf)] [[Code](https://github.com/tsingqguo/ABA)]
 
 * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
@@ -18,11 +18,24 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * HiFT: Hierarchical Feature Transformer for Aerial Tracking. ICCV, 2021.  <br /> Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. [[Paper](https://arxiv.org/abs/2108.00202)][[Code]( https://github.com/vision4robotics/HiFT)]
 
-* Saliency-Associated Object Tracking. ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code]()]
+* Saliency-Associated Object Tracking. ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code](https://github.com/ZikunZhou/SAOT.git)]
     
 * Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code]()]
 
-* Object Tracking by Jointly Exploiting Frame and Event Domain, Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong, ICCV 2021 [[Project](https://zhangjiqing.com/dataset/)] [[Video](https://www.youtube.com/watch?v=EeMRO8XVv04&ab_channel=JiqingZhang)]
+* Object Tracking by Jointly Exploiting Frame and Event Domain, Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong, ICCV 2021 [[Project](https://zhangjiqing.com/dataset/)] [[Video](https://www.youtube.com/watch?v=EeMRO8XVv04&ab_channel=JiqingZhang)] 
+
+* Yu, Bin, et al. "High-Performance Discriminative Tracking With Transformers." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)]
+
+* Yan, Song, et al. "DepthTrack: Unveiling the Power of RGBD Tracking." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_DepthTrack_Unveiling_the_Power_of_RGBD_Tracking_ICCV_2021_paper.pdf)] 
+
+* Fan, Heng, et al. "Transparent object tracking benchmark." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Transparent_Object_Tracking_Benchmark_ICCV_2021_paper.pdf)]
+
+* Zheng, Chaoda, et al. "Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf)] [[Code](https://github.com/Ghostish/BAT)] 
+
+* Wang, Zhoutao, et al. "MLVSNet: Multi-Level Voting Siamese Network for 3D Visual Tracking." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/CodeWZT/MLVSNet)] 
+
+* Guo, Qing, et al. "Learning to Adversarially Blur Visual Object Tracking." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_Learning_To_Adversarially_Blur_Visual_Object_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/tsingqguo/ABA)] 
+
 
 
 
