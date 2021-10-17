@@ -14,7 +14,6 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
 
-* Learning to Adversarially Blur Visual Object Tracking. ICCV, 2021.  <br /> Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. [[Paper](https://arxiv.org/abs/2107.12085)][[Code](https://github.com/tsingqguo/ABA)]
 
 * HiFT: Hierarchical Feature Transformer for Aerial Tracking. ICCV, 2021.  <br /> Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. [[Paper](https://arxiv.org/abs/2108.00202)][[Code]( https://github.com/vision4robotics/HiFT)]
 
