@@ -8,6 +8,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
 
 
+### AAAI-2022
+Homography Decomposition Networks for Planar Object Tracking, Xinrui Zhan, Yueran Liu, jianke Zhu, Yang Li, [[Paper](https://arxiv.org/pdf/2112.07909.pdf)] [[Code](https://github.com/zhanxinrui/HDN)]
+
 ### ICCV-2021
 * **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/JudasDie/SOTS)]
 * **ABA**: Learning to Adversarially Blur Visual Object Tracking, Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao, [[Paper](https://arxiv.org/pdf/2107.12085.pdf)] [[Code](https://github.com/tsingqguo/ABA)]
