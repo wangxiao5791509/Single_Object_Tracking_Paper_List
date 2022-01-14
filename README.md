@@ -8,8 +8,15 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
 
 
-### AAAI-2022
-Homography Decomposition Networks for Planar Object Tracking, Xinrui Zhan, Yueran Liu, jianke Zhu, Yang Li, [[Paper](https://arxiv.org/pdf/2112.07909.pdf)] [[Code](https://github.com/zhanxinrui/HDN)]
+### AAAI-2022 [[All Paper List](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)]
+* Homography Decomposition Networks for Planar Object Tracking, Xinrui Zhan, Yueran Liu, jianke Zhu, Yang Li, [[Paper](https://arxiv.org/pdf/2112.07909.pdf)] [[Code](https://github.com/zhanxinrui/HDN)]
+* Cross-Modal Object Tracking: Modality-Aware Representations and a Unified Benchmark, Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai 
+* Attribute-based Progressive Fusion Network for RGBT Tracking, Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang 
+* Truth-Tracking via Approval Voting: Size Matters, Tahar Allouche, Jerome Lang, Florian Yger 
+* 
+
+
+
 
 ### ICCV-2021
 * **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/JudasDie/SOTS)]
