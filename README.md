@@ -9,12 +9,27 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking**, Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Yuxuan Zhang, Xiang Wan, Shiming Ge, [[Paper](https://arxiv.org/pdf/2201.07425.pdf)] [[Github](https://github.com/983632847/WebUAV-3M)]
 
 
+
+### CVPR-2022
+* TCTrack: Temporal Contexts for Aerial Tracking, Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu, 
+[[Paper](https://arxiv.org/pdf/2203.01885.pdf)]
+[[Code](https://github.com/vision4robotics/TCTrack)] 
+
+* Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds, Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li, 
+[[Paper](https://arxiv.org/pdf/2203.01730.pdf)] 
+[[Code](https://github.com/Ghostish/Open3DSOT)]
+
+* Correlation-Aware Deep Tracking, Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng 
+[[Paper](https://arxiv.org/pdf/2203.01666.pdf)]
+[[Code]()]
+
+
+
 ### AAAI-2022 [[All Paper List](https://aaai.org/Conferences/AAAI-22/wp-content/uploads/2021/12/AAAI-22_Accepted_Paper_List_Main_Technical_Track.pdf)]
 * Homography Decomposition Networks for Planar Object Tracking, Xinrui Zhan, Yueran Liu, jianke Zhu, Yang Li, [[Paper](https://arxiv.org/pdf/2112.07909.pdf)] [[Code](https://github.com/zhanxinrui/HDN)]
 * Cross-Modal Object Tracking: Modality-Aware Representations and a Unified Benchmark, Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai 
 * Attribute-based Progressive Fusion Network for RGBT Tracking, Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang 
 * Truth-Tracking via Approval Voting: Size Matters, Tahar Allouche, Jerome Lang, Florian Yger 
-* 
 
 
 
