@@ -13,6 +13,13 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### CVPR-2022
+
+* **Transforming Model Prediction for Tracking**, Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool
+[[Paper](https://arxiv.org/abs/2203.11192)] 
+[[Code](https://github.com/visionml/pytracking)]
+
+
+
 * TCTrack: Temporal Contexts for Aerial Tracking, Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu, 
 [[Paper](https://arxiv.org/pdf/2203.01885.pdf)]
 [[Code](https://github.com/vision4robotics/TCTrack)] 
