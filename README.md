@@ -14,6 +14,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2022
 
+* **STNet**: Spiking Transformers for Event-based Single Object Tracking, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
+[[Paper]()]
+[[Project](https://zhangjiqing.com/publication/stnet/)]
+[[Code](https://github.com/Jee-King/CVPR2022_STNet)]
+
 * **Transforming Model Prediction for Tracking**, Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool
 [[Paper](https://arxiv.org/abs/2203.11192)] 
 [[Code](https://github.com/visionml/pytracking)]
