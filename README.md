@@ -14,6 +14,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2022
 
+* **Unified Transformer Tracker for Object Tracking**, Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan
+[[Paper](https://arxiv.org/pdf/2203.15175.pdf)]
+[[Code]()]
+
 * **STNet**: Spiking Transformers for Event-based Single Object Tracking, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
 [[Paper]()]
 [[Project](https://zhangjiqing.com/publication/stnet/)]
