@@ -14,6 +14,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2022
 
+* **Global Tracking via Ensemble of Local Trackers**, Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, and Zhenyu He, 
+[[Paper](https://arxiv.org/pdf/2203.16092.pdf)]
+[[Code](https://github.com/ZikunZhou/GTELT)]
+
 * **Unified Transformer Tracker for Object Tracking**, Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan
 [[Paper](https://arxiv.org/pdf/2203.15175.pdf)]
 [[Code]()]
