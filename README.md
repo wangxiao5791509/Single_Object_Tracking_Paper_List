@@ -14,6 +14,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2022
 
+* **CSWinTT**: Transformer Tracking with Cyclic Shifting Window Attention, Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang
+[[Paper](https://arxiv.org/abs/2205.03806)]
+[[Code](https://github.com/SkyeSong38/CSWinTT)]
+
+
 * **Global Tracking via Ensemble of Local Trackers**, Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, and Zhenyu He, 
 [[Paper](https://arxiv.org/pdf/2203.16092.pdf)]
 [[Code](https://github.com/ZikunZhou/GTELT)]
