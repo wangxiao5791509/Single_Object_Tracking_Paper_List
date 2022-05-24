@@ -16,6 +16,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/pdf/2205.03776.pdf)]
 [[Code](https://github.com/fzh0917/SparseTT)]
 
+* **Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking**, Ilchae Jung, et al. 
+[[Paper](https://arxiv.org/pdf/2205.11179.pdf)]
+
 
 
 ### CVPR-2022
