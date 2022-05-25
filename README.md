@@ -23,6 +23,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2022
 
+* **Ranking-Based Siamese Visual Tracking**, Feng Tang, Qiang Ling, 
+[[Paper](https://github.com/sansanfree/RBO)]
+
 * **CSWinTT**: Transformer Tracking with Cyclic Shifting Window Attention, Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang
 [[Paper](https://arxiv.org/abs/2205.03806)]
 [[Code](https://github.com/SkyeSong38/CSWinTT)]
