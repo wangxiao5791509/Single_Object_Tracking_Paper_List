@@ -17,7 +17,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Code](https://github.com/fzh0917/SparseTT)]
 
 * **Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking**, Ilchae Jung, et al. 
-[[Paper](https://arxiv.org/pdf/2205.11179.pdf)]
+[[Paper](https://arxiv.org/pdf/2205.11179.pdf)] 
+
+* **Learning Target-aware Representation for Visual Tracking via Informative Interactions**, Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu [[Paper](https://arxiv.org/abs/2201.02526)]
+
+* **Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking**, Ilchae Jung, Minji Kim, Eunhyeok Park, Bohyung Han [[Paper](https://arxiv.org/abs/2205.11179)]
 
 
 
