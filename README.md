@@ -51,18 +51,34 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/abs/2203.11192)] 
 [[Code](https://github.com/visionml/pytracking)]
 
-
-
 * **TCTrack**: Temporal Contexts for Aerial Tracking, Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu, 
 [[Paper](https://arxiv.org/pdf/2203.01885.pdf)]
 [[Code](https://github.com/vision4robotics/TCTrack)] 
 
-* Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds, Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li, 
+* **Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**, Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li, 
 [[Paper](https://arxiv.org/pdf/2203.01730.pdf)] 
 [[Code](https://github.com/Ghostish/Open3DSOT)]
 
-* Correlation-Aware Deep Tracking, Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng 
-[[Paper](https://arxiv.org/pdf/2203.01666.pdf)]
+* **Correlation-Aware Deep Tracking**, Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng 
+[[Paper](https://arxiv.org/pdf/2203.01666.pdf)] 
+
+* **Unsupervised Learning of Accurate Siamese Tracking**, Qiuhong Shen; Lei Qiao; Jinyang Guo; Peixia Li; Xin Li; Bo Li; 
+Weitao Feng; Weihao Gan; Wei Wu; Wanli Ouyang, [[Paper](https://arxiv.org/abs/2204.01475)] 
+
+* **PTTR: Relational 3D Point Cloud Object Tracking With Transformer**, Changqing Zhou; Zhipeng Luo; Yueru Luo; Tianrui Liu; Liang Pan; 
+Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)] 
+
+* **Global Tracking Transformers**, Xingyi Zhou; Tianwei Yin; Vladlen Koltun; Philipp Krähenbühl, [[Paper](https://arxiv.org/abs/2203.13250)] 
+
+* **Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline**,  Pengyu Zhang; Jie Zhao; Dong Wang; Huchuan Lu; Xiang Ruan [[Paper](https://arxiv.org/abs/2204.04120)] 
+
+* **Unsupervised Domain Adaptation for Nighttime Aerial Tracking,** Junjie Ye; Changhong Fu; Guangze Zheng; Danda Pani Paudel; Guang Chen [[Paper](https://arxiv.org/abs/2203.10541)] 
+
+* **MixFormer: End-to-End Tracking With Iterative Mixed Attention**, Yutao Cui; Cheng Jiang; Limin Wang; Gangshan Wu, [[Paper](https://arxiv.org/abs/2203.10541)] 
+
+* **Opening up Open-World Tracking,** Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé 
+[[Paper](https://arxiv.org/abs/2104.11221)]
+
 
 
 
