@@ -30,7 +30,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **Ranking-Based Siamese Visual Tracking**, Feng Tang, Qiang Ling, 
 [[Paper](https://github.com/sansanfree/RBO)]
 
-* **CSWinTT**: Transformer Tracking with Cyclic Shifting Window Attention, Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang
+* **CSWinTT**: **Transformer Tracking with Cyclic Shifting Window Attention**, Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang
 [[Paper](https://arxiv.org/abs/2205.03806)]
 [[Code](https://github.com/SkyeSong38/CSWinTT)]
 
@@ -42,7 +42,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/pdf/2203.15175.pdf)]
 [[Code]()]
 
-* **STNet**: Spiking Transformers for Event-based Single Object Tracking, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
+* **STNet**: **Spiking Transformers for Event-based Single Object Tracking**, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
 [[Paper]()]
 [[Project](https://zhangjiqing.com/publication/stnet/)]
 [[Code](https://github.com/Jee-King/CVPR2022_STNet)]
@@ -51,7 +51,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/abs/2203.11192)] 
 [[Code](https://github.com/visionml/pytracking)]
 
-* **TCTrack**: Temporal Contexts for Aerial Tracking, Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu, 
+* **TCTrack**: **Temporal Contexts for Aerial Tracking**, Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu, 
 [[Paper](https://arxiv.org/pdf/2203.01885.pdf)]
 [[Code](https://github.com/vision4robotics/TCTrack)] 
 
@@ -93,36 +93,36 @@ Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)]
 
 
 ### ICCV-2021
-* **LTM**： Learn to Match: Automatic Matching Network Design for Visual Tracking， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/JudasDie/SOTS)]
+* **LTM**： **Learn to Match: Automatic Matching Network Design for Visual Tracking**， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/JudasDie/SOTS)]
 * **ABA**: Learning to Adversarially Blur Visual Object Tracking, Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao, [[Paper](https://arxiv.org/pdf/2107.12085.pdf)] [[Code](https://github.com/tsingqguo/ABA)]
 
-* **Stark**: Learning Spatio-Temporal Transformer for Visual Tracking. ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
+* **Stark**: **Learning Spatio-Temporal Transformer for Visual Tracking.** ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
 
 
-* **HiFT**: Hierarchical Feature Transformer for Aerial Tracking. ICCV, 2021.  <br /> Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. [[Paper](https://arxiv.org/abs/2108.00202)][[Code]( https://github.com/vision4robotics/HiFT)]
+* **HiFT**: **Hierarchical Feature Transformer for Aerial Tracking.** ICCV, 2021.  <br /> Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. [[Paper](https://arxiv.org/abs/2108.00202)][[Code]( https://github.com/vision4robotics/HiFT)]
 
-* **SAOT**: Saliency-Associated Object Tracking. ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code](https://github.com/ZikunZhou/SAOT.git)]
+* **SAOT**: **Saliency-Associated Object Tracking.** ICCV, 2021.  <br /> Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. [[Paper](https://arxiv.org/abs/2108.03637)][[Code](https://github.com/ZikunZhou/SAOT.git)]
     
-* Video Annotation for Visual Tracking via Selection and Refinement. ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code]()]
+* **Video Annotation for Visual Tracking via Selection and Refinement.** ICCV, 2021.  <br /> Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. [[Paper](https://arxiv.org/abs/2108.03821)][[Code]()]
 
-* Object Tracking by Jointly Exploiting Frame and Event Domain, Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong, ICCV 2021 [[Project](https://zhangjiqing.com/dataset/)] [[Video](https://www.youtube.com/watch?v=EeMRO8XVv04&ab_channel=JiqingZhang)] 
+* **Object Tracking by Jointly Exploiting Frame and Event Domain**, Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong, ICCV 2021 [[Project](https://zhangjiqing.com/dataset/)] [[Video](https://www.youtube.com/watch?v=EeMRO8XVv04&ab_channel=JiqingZhang)] 
 
-* Yu, Bin, et al. "High-Performance Discriminative Tracking With Transformers." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)]
+* Yu, Bin, et al. "**High-Performance Discriminative Tracking With Transformers**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)]
 
-* Yan, Song, et al. "DepthTrack: Unveiling the Power of RGBD Tracking." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_DepthTrack_Unveiling_the_Power_of_RGBD_Tracking_ICCV_2021_paper.pdf)] [[Dataset and Code](https://github.com/xiaozai/DeT)]
+* Yan, Song, et al. "**DepthTrack: Unveiling the Power of RGBD Tracking.**" Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_DepthTrack_Unveiling_the_Power_of_RGBD_Tracking_ICCV_2021_paper.pdf)] [[Dataset and Code](https://github.com/xiaozai/DeT)]
 
-* Fan, Heng, et al. "Transparent object tracking benchmark." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Transparent_Object_Tracking_Benchmark_ICCV_2021_paper.pdf)]
+* Fan, Heng, et al. **"Transparent object tracking benchmark."** Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Transparent_Object_Tracking_Benchmark_ICCV_2021_paper.pdf)]
 
-* Zheng, Chaoda, et al. "Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf)] [[Code](https://github.com/Ghostish/BAT)] 
+* Zheng, Chaoda, et al. "**Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds**." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf)] [[Code](https://github.com/Ghostish/BAT)] 
 
-* Wang, Zhoutao, et al. "MLVSNet: Multi-Level Voting Siamese Network for 3D Visual Tracking." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/CodeWZT/MLVSNet)] 
+* Wang, Zhoutao, et al. "**MLVSNet: Multi-Level Voting Siamese Network for 3D Visual Tracking.**" Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/CodeWZT/MLVSNet)] 
 
 
 
 
 ### CVPR-2021
 
-* **TNL2K**: Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark， Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu 
+* **TNL2K**: **Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark，** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu 
 [[Paper](https://arxiv.org/pdf/2103.16746.pdf)]
 [[Project](https://sites.google.com/view/langtrackbenchmark/)]
 [[TNL2K-BaiduYun (Code: pclt)](https://pan.baidu.com/s/1p7WR20szGLc9gitZOI0wkw)]
@@ -130,41 +130,42 @@ Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)]
 [[Benchmark-Results](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EaXwUHLr01RGoNEgqAW5nXABJ1FiHap7X6zCuPJfszJlSg?e=4owRLa)]
 [[Demo Video (Youtube)](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)]
 
-* **TransformerTrack**: Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Paper](https://arxiv.org/abs/2103.11681)] [[Code](https://github.com/594422814/TransformerTrack)] 
+* **TransformerTrack**: **Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking, **Wang, Ning and Zhou, Wengang and Wang, Jie and Li, Houqiang [[Paper](https://arxiv.org/abs/2103.11681)] [[Code](https://github.com/594422814/TransformerTrack)] 
 
-* **TransT**: Transformer Tracking, [[Paper](https://arxiv.org/abs/2103.15436)] [[Code](https://github.com/chenxin-dlut/TransT)]
+* **TransT**: **Transformer Tracking**, [[Paper](https://arxiv.org/abs/2103.15436)] [[Code](https://github.com/chenxin-dlut/TransT)]
 
-* **SNLT**: Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers [[Paper](https://arxiv.org/pdf/1912.02048.pdf)] [[Code](https://github.com/fredfung007/snlt)]
+* **SNLT**: **Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers** [[Paper](https://arxiv.org/pdf/1912.02048.pdf)] [[Code](https://github.com/fredfung007/snlt)]
 
-* **IoU Attack**: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking, Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang, [[Paper](https://arxiv.org/pdf/2103.14938.pdf)] [[Code](https://github.com/VISION-SJTU/IoUattack)] 
+* **IoU Attack**: **Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking,** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang, [[Paper](https://arxiv.org/pdf/2103.14938.pdf)] [[Code](https://github.com/VISION-SJTU/IoUattack)] 
 
-* Rotation Equivariant Siamese Networks for Tracking, Deepak K. Gupta, Devanshu Arya, Efstratios Gavves, [[Paper](https://arxiv.org/abs/2012.13078)] [[Code](https://github.com/dkgupta90/re-siamnet)]
+* **Rotation Equivariant Siamese Networks for Tracking,** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves, [[Paper](https://arxiv.org/abs/2012.13078)] [[Code](https://github.com/dkgupta90/re-siamnet)]
 
-* **SiamGAT**: Graph Attention Tracking, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
+* **SiamGAT**: **Graph Attention Tracking**, Guo, Dongyan and Shao, Yanyan and Cui, Ying and Wang, Zhenhua and Zhang, Liyan and Shen, Chunhua [[Paper](https://arxiv.org/pdf/2011.11204.pdf)] [[Code](https://github.com/ohhhyeahhh/SiamGAT)] 
 
-* **STMTrack**: Template-free Visual Tracking with Space-time Memory Networks, Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang [[Paper](https://arxiv.org/abs/2104.00324)] [[Code](https://github.com/fzh0917/STMTrack)] 
+* **STMTrack**: **Template-free Visual Tracking with Space-time Memory Networks**, Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang [[Paper](https://arxiv.org/abs/2104.00324)] [[Code](https://github.com/fzh0917/STMTrack)] 
 
-* **Alpha-Refine**: Boosting Tracking Performance by Precise Bounding Box Estimation, Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang, CVPR2021 [[Paper](https://arxiv.org/abs/2012.06815)] [[Code](https://github.com/MasterBin-IIAU/AlphaRefine)] 
+* **Alpha-Refine**: **Boosting Tracking Performance by Precise Bounding Box Estimation,** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang, CVPR2021 [[Paper](https://arxiv.org/abs/2012.06815)] [[Code](https://github.com/MasterBin-IIAU/AlphaRefine)] 
 
-* **LightTrack**: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search, Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, CVPR2021 [[Paper]()] [[Code](https://github.com/researchmm/LightTrack)]
+* **LightTrack**: **Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search,** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu, CVPR2021 [[Paper]()] [[Code](https://github.com/researchmm/LightTrack)]
 
-* Progressive Unsupervised Learning for Visual Object Tracking, Qiangqiang Wu, Jia Wan, Antoni B. Chan [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
+* **Progressive Unsupervised Learning for Visual Object Tracking**, Qiangqiang Wu, Jia Wan, Antoni B. Chan [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
 
-* MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking,	Jennifer Jang, Heinrich Jiang [[Paper](https://arxiv.org/pdf/2104.00303.pdf)]
+* **MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking,**	Jennifer Jang, Heinrich Jiang [[Paper](https://arxiv.org/pdf/2104.00303.pdf)]
 
-* Learning To Filter: Siamese Relation Network for Robust Tracking, Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang, [[Paper](Learning to Filter: Siamese Relation Network for Robust Tracking)] [[Code](https://github.com/hqucv/siamrn)]
+* **Learning To Filter: Siamese Relation Network for Robust Tracking,** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang, [[Paper](Learning to Filter: Siamese Relation Network for Robust Tracking)] [[Code](https://github.com/hqucv/siamrn)]
 
-* Polygonal Point Set Tracking	Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nam_Polygonal_Point_Set_Tracking_CVPR_2021_paper.pdf)]
+* **Polygonal Point Set Tracking**	Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nam_Polygonal_Point_Set_Tracking_CVPR_2021_paper.pdf)]
  
-* Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark	Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu, [[Paper](https://arxiv.org/pdf/2105.02440.pdf)] [[Code](https://github.com/VisDrone/DroneCrowd)]
+* **Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark**	Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu, [[Paper](https://arxiv.org/pdf/2105.02440.pdf)] [[Code](https://github.com/VisDrone/DroneCrowd)]
 
-* CapsuleRRT: Relationships-Aware Regression Tracking via Capsules	Ding Ma, Xiangqian Wu [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
+* **CapsuleRRT: Relationships-Aware Regression Tracking via Capsules**	Ding Ma, Xiangqian Wu [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
 
-* Track, Check, Repeat: An EM Approach to Unsupervised Tracking	Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki, [[Paper](https://arxiv.org/pdf/2104.03424.pdf)]
+* **Track, Check, Repeat: An EM Approach to Unsupervised Tracking**	Adam W. Harley, Yiming Zuo, Jing Wen, Ayush Mangal, Shubhankar Potdar, Ritwick Chaudhry, Katerina Fragkiadaki, [[Paper](https://arxiv.org/pdf/2104.03424.pdf)]
 
-* Learning To Fuse Asymmetric Feature Maps in Siamese Trackers	Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen, [[Paper](https://arxiv.org/pdf/2012.02776.pdf)] [[Code](https://github.com/wencheng256/SiamBAN-ACM)]
+* **Learning To Fuse Asymmetric Feature Maps in Siamese Trackers**	Wencheng Han, Xingping Dong, Fahad Shahbaz Khan, Ling Shao, Jianbing Shen, [[Paper](https://arxiv.org/pdf/2012.02776.pdf)] [[Code](https://github.com/wencheng256/SiamBAN-ACM)]
 
-* **DMTrack**: Zhang, Zikai, et al. "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)] [[Code](https://github.com/hqucv/dmtrack)]
+* **DMTrack**: Zhang, Zikai, et al. "**Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy."** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Distractor-Aware_Fast_Tracking_via_Dynamic_Convolutions_and_MOT_Philosophy_CVPR_2021_paper.pdf)] [[Code](https://github.com/hqucv/dmtrack)]
 
 
 
@@ -173,39 +174,42 @@ Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)]
 
 
 ### AAAI2021 
-* Model Uncertainty Guides Visual Object Tracking, Lijun Zhou, Antoine Ledent, Qintao Hu, Ting Liu, Jianlin Zhang, Marius Kloft [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16473)]
+* **Model Uncertainty Guides Visual Object Tracking**, Lijun Zhou, Antoine Ledent, Qintao Hu, Ting Liu, Jianlin Zhang, Marius Kloft [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16473)]
 
-* Towards Universal Physical Attacks on Single Object Tracking, Li Ding, Yongwei Wang, Kaiwen Yuan, Minyang Jiang, Ping Wang, Hua Huang, Z. Jane Wang [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-2606.DingL.pdf)]
+* **Towards Universal Physical Attacks on Single Object Tracking**, Li Ding, Yongwei Wang, Kaiwen Yuan, Minyang Jiang, Ping Wang, Hua Huang, Z. Jane Wang [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-2606.DingL.pdf)]
 
-* Visual Tracking via Hierarchical Deep Reinforcement Learning, Dawei Zhang, Zhonglong Zheng, Riheng Jia, Minglu Li [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-3094.ZhangD.pdf)]
+* **Visual Tracking via Hierarchical Deep Reinforcement Learning**, Dawei Zhang, Zhonglong Zheng, Riheng Jia, Minglu Li [[Paper](https://www.aaai.org/AAAI21Papers/AAAI-3094.ZhangD.pdf)]
 
-* A Unified Multi-Scenario Attacking Network for Visual Object Tracking, Xuesong Chen, Canmiao Fu, Feng Zheng, Yong Zhao, Hongsheng Li, Ping Luo, Guo-Jun Qi [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16195)]
+* **A Unified Multi-Scenario Attacking Network for Visual Object Tracking,** Xuesong Chen, Canmiao Fu, Feng Zheng, Yong Zhao, Hongsheng Li, Ping Luo, Guo-Jun Qi [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16195)]
 
 
 
 ### NIPS2020
-* ke Song· Wei Zhang · Ran Song · Yibin Li, Online Decision Based Visual Tracking via Reinforcement Learning, [[Paper](https://proceedings.neurips.cc//paper/2020/file/885b2c7a6deb4fea10f319c4ce993e02-Paper.pdf)] [[Project](https://vsislab.github.io/DTNet/)] [[Code]()]
+* ke Song· Wei Zhang · Ran Song · Yibin Li, **Online Decision Based Visual Tracking via Reinforcement Learning,** [[Paper](https://proceedings.neurips.cc//paper/2020/file/885b2c7a6deb4fea10f319c4ce993e02-Paper.pdf)] [[Project](https://vsislab.github.io/DTNet/)] [[Code]()]
 
 
 ### IJCAI-2020
-* **TLPG-Tracker**: Joint Learning of Target Localization and Proposal Generation for Visual Tracking, Li, S., Zhang, Z., Liu, Z., Wang, A., Qiu, L., & Du, F. [[Paper](https://www.ijcai.org/Proceedings/2020/0099.pdf)]
+* **TLPG-Tracker**: **Joint Learning of Target Localization and Proposal Generation for Visual Tracking**, Li, S., Zhang, Z., Liu, Z., Wang, A., Qiu, L., & Du, F. [[Paper](https://www.ijcai.org/Proceedings/2020/0099.pdf)]
 
 
 
 ### ECCV2020
-* **SPARK:** Guo, Qing, et al. "SPARK: Spatial-aware online incremental attack against visual tracking." [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700205.pdf)] 
+* **SPARK:** Guo, Qing, et al. **"SPARK: Spatial-aware online incremental attack against visual tracking."** [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700205.pdf)] 
 
-* **PCT:** Kang Il Lee, Jung Ho Jeon and Byung Cheol Song, Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)] 
+* **PCT:** Kang Il Lee, Jung Ho Jeon and Byung Cheol Song, **Deep Learning-based Pupil Center Detection for Fast and Accurate Eye Tracking System** 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640035.pdf)] 
 
-* **RTAA:** Shuai Jia, Chao Ma, Yibing Song, and Xiaokang Yang, Robust Tracking against Adversarial Attacks, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640069.pdf)] [[Code](https://github.com/joshuajss/RTAA)] 
+* **RTAA:** Shuai Jia, Chao Ma, Yibing Song, and Xiaokang Yang, **Robust Tracking against Adversarial Attacks**, 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640069.pdf)] 
+[[Code](https://github.com/joshuajss/RTAA)] 
 
-* **Ocean:** Zhang et al. Ocean: Object-aware Anchor-free Tracking, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660766.pdf)] [[Code](https://github.com/researchmm/TracKit)] 
+* **Ocean:** Zhang et al. **Ocean: Object-aware Anchor-free Tracking,** [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660766.pdf)] [[Code](https://github.com/researchmm/TracKit)] 
 
-* **???:** Liu et al. Object Tracking using Spatio-Temporal Networks for Future Prediction Location, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
+* Liu et al. **Object Tracking using Spatio-Temporal Networks for Future Prediction Location**, [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
 
-* **???:**  Li et al. Challenge-Aware RGBT Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)] 
+* Li et al.** Challenge-Aware RGBT Tracking** [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670222.pdf)] 
 
-* **PG-Net:**  Liao et al. PG-Net: Pixel to Global Matching Network for Visual Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)]
+* **PG-Net:**  Liao et al. **PG-Net: Pixel to Global Matching Network for Visual Tracking** [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670426.pdf)]
 
 * **KYS:**  Goutam Bhat, Martin Danelljan, Luc Van Gool, and Radu Timofte, Know Your Surroundings: Exploiting Scene Information for Object Tracking [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf)] [[Code](https://github.com/visionml/pytracking)]  
 
