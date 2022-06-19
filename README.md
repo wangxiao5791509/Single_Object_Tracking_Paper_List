@@ -43,7 +43,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Code]()]
 
 * **STNet**: **Spiking Transformers for Event-based Single Object Tracking**, Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang
-[[Paper]()]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.pdf)]
 [[Project](https://zhangjiqing.com/publication/stnet/)]
 [[Code](https://github.com/Jee-King/CVPR2022_STNet)]
 
