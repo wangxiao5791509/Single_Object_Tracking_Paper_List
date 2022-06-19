@@ -56,7 +56,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Code](https://github.com/vision4robotics/TCTrack)] 
 
 * **Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**, Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li, 
-[[Paper]([https://arxiv.org/pdf/2203.01730.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Beyond_3D_Siamese_Tracking_A_Motion-Centric_Paradigm_for_3D_Single_CVPR_2022_paper.pdf))] 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Beyond_3D_Siamese_Tracking_A_Motion-Centric_Paradigm_for_3D_Single_CVPR_2022_paper.pdf)] 
 [[Code](https://github.com/Ghostish/Open3DSOT)]
 
 * **Correlation-Aware Deep Tracking**, Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng 
