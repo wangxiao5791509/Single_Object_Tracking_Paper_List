@@ -94,6 +94,11 @@ Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)]
 
 ### ICCV-2021
 * **LTM**： **Learn to Match: Automatic Matching Network Design for Visual Tracking**， Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming, [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learn_To_Match_Automatic_Matching_Network_Design_for_Visual_Tracking_ICCV_2021_paper.pdf)] [[Code](https://github.com/JudasDie/SOTS)]
+
+* **KeepTrack**: Mayer, Christoph, et al. "Learning target candidate association to keep track of what not to track." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021. 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mayer_Learning_Target_Candidate_Association_To_Keep_Track_of_What_Not_ICCV_2021_paper.pdf)] 
+[[Code](https://github.com/visionml/pytracking)]
+
 * **ABA**: Learning to Adversarially Blur Visual Object Tracking, Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao, [[Paper](https://arxiv.org/pdf/2107.12085.pdf)] [[Code](https://github.com/tsingqguo/ABA)]
 
 * **Stark**: **Learning Spatio-Temporal Transformer for Visual Tracking.** ICCV, 2021.  <br /> Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu. [[Paper](https://arxiv.org/abs/2103.17154)][[Code](https://github.com/researchmm/Stark)]
