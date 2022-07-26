@@ -13,6 +13,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### ECCV-2022 
+
+* **3D Siamese Transformer Network for Single Object Tracking on Point Clouds**, Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie⋆
+, and Jian Yang, [[Paper](https://arxiv.org/pdf/2207.11995.pdf)] [[Code](https://github.com/fpthink/STNet)]
+
 * **CMT: Context-Matching-Guided Transformer for 3D Tracking in Point Clouds**, Guo, Zhiyang and Mao, Yunyao and Zhou, Wengang and Wang, Min and Li, Houqiang, ECCV-2022, [[Paper]] [[Code](https://github.com/jasongzy/CMT)]
 
 
