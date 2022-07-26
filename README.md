@@ -184,7 +184,7 @@ Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)]
 
 
 ### NeurIPS 2021
-Hui, Le, et al. "**3d siamese voxel-to-bev tracker for sparse point clouds.**" Advances in Neural Information Processing Systems 34 (2021): 28714-28727. [[Paper](https://proceedings.neurips.cc/paper/2021/file/f0fcf351df4eb6786e9bb6fc4e2dee02-Paper.pdf)] [[Code](https://github.com/fpthink/V2B)] 
+* Hui, Le, et al. "**3d siamese voxel-to-bev tracker for sparse point clouds.**" Advances in Neural Information Processing Systems 34 (2021): 28714-28727. [[Paper](https://proceedings.neurips.cc/paper/2021/file/f0fcf351df4eb6786e9bb6fc4e2dee02-Paper.pdf)] [[Code](https://github.com/fpthink/V2B)] 
 
 
 
