@@ -98,8 +98,10 @@ Zhongang Cai; Haiyu Zhao; Shijian Lu [[Paper](https://arxiv.org/abs/2112.02857)]
 
 * **Attribute-based Progressive Fusion Network for RGBT Tracking**, Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-7747.XiaoY.pdf)] [[Code](https://github.com/mmic-lcl/source-code)]
 
-* Park, Minseong, et al. "Graph-Based Point Tracker for 3D Object Tracking in Point Clouds." AAAI-2022, 
-[[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5325.ParkM.pdf)]
+* Park, Minseong, et al. "**Graph-Based Point Tracker for 3D Object Tracking in Point Clouds**." AAAI-2022, 
+[[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5325.ParkM.pdf)] 
+
+* Koh, Junho, et al. "**Joint 3d object detection and tracking using spatio-temporal representation of camera image and lidar point clouds.**" Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 36. No. 1. 2022.  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20007/19766)]
 
 
 
