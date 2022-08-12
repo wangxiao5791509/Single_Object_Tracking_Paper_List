@@ -14,6 +14,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### ECCV-2022 
 
+* **Towards Sequence-Level Training for Visual Tracking**, Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho 
+[[Paper](https://arxiv.org/pdf/2208.05810.pdf)] 
+[[Code](https://github.com/byminji/SLTtrack)]
+
 * **3D Siamese Transformer Network for Single Object Tracking on Point Clouds**, Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie⋆
 , and Jian Yang, [[Paper](https://arxiv.org/pdf/2207.11995.pdf)] [[Code](https://github.com/fpthink/STNet)]
 
