@@ -15,7 +15,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 ### ECCV-2022 
 
 * Chen, Boyu, et al. "**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**." arXiv preprint arXiv:2203.05328 (2022). 
-[[Paper](https://arxiv.org/pdf/2107.02960.pdf)] 
+[[Paper](https://arxiv.org/pdf/2203.05328.pdf)] 
 [[Code](https://github.com/LPXTT/SimTrack)]
 
 * **Towards Sequence-Level Training for Visual Tracking**, Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho 
