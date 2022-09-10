@@ -14,6 +14,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### ECCV-2022 
 
+* Yang, J, Zhang, Z, Li, Z, Chang, HJ, Leonardis, A & Zheng, F 2022, **Towards generic 3D tracking in RGBD videos: benchmark and baseline.** in European Conference on Computer Vision. 17th European Conference on Computer Vision (ECCV 2022), Tel Aviv, Israel, 24/10/22. 
+[[Paper](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/176231857/1358.pdf)]
+[[Github](https://github.com/yjybuaa/Track-it-in-3D)]
+
+
 * Chen, Boyu, et al. "**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**." arXiv preprint arXiv:2203.05328 (2022). 
 [[Paper](https://arxiv.org/pdf/2203.05328.pdf)] 
 [[Code](https://github.com/LPXTT/SimTrack)]
