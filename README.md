@@ -20,12 +20,29 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### ECCV-2022 
 
-* Yang, J, Zhang, Z, Li, Z, Chang, HJ, Leonardis, A & Zheng, F 2022, **Towards generic 3D tracking in RGBD videos: benchmark and baseline.** in European Conference on Computer Vision. 17th European Conference on Computer Vision (ECCV 2022), Tel Aviv, Israel, 24/10/22. 
+* **SpOT: Spatiotemporal Modeling for 3D Object Tracking**, Colton Stearns, Davis Rempe, Jie Li, Rares Ambrus, Sergey Zakharov, Vitor Guizilini, Yanchao Yang, Leonidas J Guibas 
+[[Paper](https://arxiv.org/abs/2207.05856)] 
+
+
+* **Robust Visual Tracking by Segmentation**, Matthieu Paul, Martin Danelljan, Christoph Mayer, Luc Van Gool  
+[[Paper](https://arxiv.org/abs/2203.11191)]
+[[Code](https://github.com/visionml/pytracking)]
+
+
+* **Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories**, Adam W. Harley, Zhaoyuan Fang, Katerina Fragkiadaki 
+[[Paper](https://arxiv.org/abs/2204.04153)]
+[[Project](https://particle-video-revisited.github.io/)]
+[[Code](https://github.com/aharley/pips)] 
+
+
+* **Graph Neural Network for Cell Tracking in Microscopy Videos**, Tal Ben-Haim (School of Electrical and Computer Engineering, Ben-Gurion University)*; Tammy Riklin Raviv (BGU), [[Paper](https://arxiv.org/pdf/2202.04731.pdf)] [[Code](https://github.com/talbenha/cell-tracker-gnn)]
+
+* **Towards generic 3D tracking in RGBD videos: benchmark and baseline.** Yang, J, Zhang, Z, Li, Z, Chang, HJ, Leonardis, A & Zheng, F 2022,  in European Conference on Computer Vision. 17th European Conference on Computer Vision (ECCV 2022), Tel Aviv, Israel, 24/10/22. 
 [[Paper](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/176231857/1358.pdf)]
 [[Github](https://github.com/yjybuaa/Track-it-in-3D)]
 
 
-* Chen, Boyu, et al. "**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**." arXiv preprint arXiv:2203.05328 (2022). 
+* "**Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking**." Chen, Boyu, et al.  arXiv preprint arXiv:2203.05328 (2022). 
 [[Paper](https://arxiv.org/pdf/2203.05328.pdf)] 
 [[Code](https://github.com/LPXTT/SimTrack)]
 
