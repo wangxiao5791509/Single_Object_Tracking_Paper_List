@@ -17,6 +17,29 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Github](https://github.com/Tchuanm/SFTransT)] 
 
 
+### NIPS-2022
+* **Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds**, Zhiyu ZHU, Junhui HOU, Xianqiang LYU 
+[[Paper](https://openreview.net/pdf?id=hTxYJAKY85)] 
+[[Code](https://github.com/ZHU-Zhiyu/Event-tracking)]
+
+* **TAP-Vid: A Benchmark for Tracking Any Point in a Video**, Doersch, Carl, et al. 
+[[Paper](https://arxiv.org/pdf/2211.03726.pdf)] 
+[[Code](https://github.com/deepmind/tapnet)] 
+
+* **Divert More Attention to Vision-Language Tracking**, Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, 
+[[Paper](https://arxiv.org/abs/2207.01076)] 
+[[Code](https://github.com/JudasDie/SOTS)]
+
+* **APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking**, Yuxiang Yang, Junjie Yang, Yufei Xu, Jing Zhang, Long Lan, Dacheng Tao
+[[Paper](https://arxiv.org/pdf/2206.05683.pdf)]
+[[Code](https://github.com/pandorgan/APT)] 
+
+* **SwinTrack: A Simple and Strong Baseline for Transformer Tracking**, Liting Lin, Heng Fan, Zhipeng Zhang, Yong Xu, Haibin Ling 
+[[Paper](https://arxiv.org/pdf/2112.00995)]
+[[Code](https://github.com/LitingLin/SwinTrack)] 
+
+
+
 
 ### ECCV-2022 
 
