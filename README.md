@@ -43,14 +43,25 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### ECCV-2022 
 
+* **Towards Grand Unification of Object Tracking**, Bin Yan1⋆, Yi Jiang2,†, Peize Sun3, Dong Wang1,†,Zehuan Yuan2, Ping Luo3, and Huchuan Lu 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810724.pdf)] 
+[[Code](https://github.com/MasterBin-IIAU/Unicorn)]
+
+
+* **AiATrack: Attention in Attention for Transformer Visual Tracking**, Shenyuan Gao1, Chunluan Zhou2, Chao Ma3, Xinggang Wang1, Junsong Yuan
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820141.pdf)] 
+[[Code](https://github.com/Little-Podi/AiATrack)]
+
+* **Hierarchical Feature Embedding for Visual Tracking**, Zhixiong Pi1∗, Weitao Wan2, Chong Sun2, Changxin Gao1,Nong Sang1†, and Chen Li 
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820418.pdf)]
+[[Code](https://github.com/zxgravity/CIA)]
+
 * **SpOT: Spatiotemporal Modeling for 3D Object Tracking**, Colton Stearns, Davis Rempe, Jie Li, Rares Ambrus, Sergey Zakharov, Vitor Guizilini, Yanchao Yang, Leonidas J Guibas 
 [[Paper](https://arxiv.org/abs/2207.05856)] 
-
 
 * **Robust Visual Tracking by Segmentation**, Matthieu Paul, Martin Danelljan, Christoph Mayer, Luc Van Gool  
 [[Paper](https://arxiv.org/abs/2203.11191)]
 [[Code](https://github.com/visionml/pytracking)]
-
 
 * **Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories**, Adam W. Harley, Zhaoyuan Fang, Katerina Fragkiadaki 
 [[Paper](https://arxiv.org/abs/2204.04153)]
@@ -61,7 +72,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **Graph Neural Network for Cell Tracking in Microscopy Videos**, Tal Ben-Haim (School of Electrical and Computer Engineering, Ben-Gurion University)*; Tammy Riklin Raviv (BGU), [[Paper](https://arxiv.org/pdf/2202.04731.pdf)] [[Code](https://github.com/talbenha/cell-tracker-gnn)]
 
 * **Towards generic 3D tracking in RGBD videos: benchmark and baseline.** Yang, J, Zhang, Z, Li, Z, Chang, HJ, Leonardis, A & Zheng, F 2022,  in European Conference on Computer Vision. 17th European Conference on Computer Vision (ECCV 2022), Tel Aviv, Israel, 24/10/22. 
-[[Paper](http://pure-oai.bham.ac.uk/ws/portalfiles/portal/176231857/1358.pdf)]
+[[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820108.pdf)]
 [[Github](https://github.com/yjybuaa/Track-it-in-3D)]
 
 
