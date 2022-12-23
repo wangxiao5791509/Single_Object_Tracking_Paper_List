@@ -7,6 +7,12 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### Pre-print: 
+
+* **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian
+[[Paper](https://arxiv.org/abs/2211.11010)]
+[[Github](https://github.com/Event-AHU/COESOT)] 
+[[DemoVideo](https://youtu.be/_ROv09rvi2k)]
+
 * **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
 
 * **WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking**, Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Yuxuan Zhang, Xiang Wan, Shiming Ge, [[Paper](https://arxiv.org/pdf/2201.07425.pdf)] [[Github](https://github.com/983632847/WebUAV-3M)]
