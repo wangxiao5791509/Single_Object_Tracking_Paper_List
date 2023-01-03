@@ -23,6 +23,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Github](https://github.com/Tchuanm/SFTransT)] 
 
 
+### ICML-2022 
+* **UAST: Uncertainty-Aware Siamese Tracking**, Dawei Zhang 1 Yanwei Fu 2 Zhonglong Zheng, 
+[[Paper](https://proceedings.mlr.press/v162/zhang22g/zhang22g.pdf)]
+
+
 ### NIPS-2022
 * **Learning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds**, Zhiyu ZHU, Junhui HOU, Xianqiang LYU 
 [[Paper](https://openreview.net/pdf?id=hTxYJAKY85)] 
