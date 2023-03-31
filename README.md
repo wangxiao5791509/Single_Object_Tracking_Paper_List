@@ -23,6 +23,29 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Github](https://github.com/Tchuanm/SFTransT)] 
 
 
+### CVPR-2023 
+
+* **Generalized Relation Modeling for Transformer Tracking**, Shenyuan Gao, Chunluan Zhou, Jun Zhang
+[[Paper](https://arxiv.org/pdf/2303.16580v1.pdf)] 
+[[Code](https://github.com/Little-Podi/GRM)]
+
+* ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data, 
+[[Paper](https://arxiv.org/pdf/2303.13885.pdf)] 
+[[Code](https://arkittrack.github.io/)]
+
+* **Joint Visual Grounding and Tracking with Natural Language Specification**, Li Zhou, Zikun Zhou, Kaige Mao, and Zhenyu He 
+[[Paper](https://arxiv.org/pdf/2303.12027.pdf)] 
+[[Code](https://github.com/lizhou-cs/JointNLT)]
+
+* **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu Simiao Lai Xin Chen, Dong Wang, Huchuan Lu 
+[[Paper](https://arxiv.org/pdf/2303.10826.pdf)] 
+[[Code](https://github.com/jiawen-zhu/ViPT)]
+
+* **Universal Instance Perception as Object Discovery and Retrieval**, Bin Yan, Yi Jiang, Jiannan Wu, Dong Wang, Ping Luo, Zehuan Yuan, Huchuan Lu 
+[[Paper](https://arxiv.org/pdf/2303.06674.pdf)] 
+[[Code](https://github.com/MasterBin-IIAU/UNINEXT)] 
+
+
 ### ICML-2022 
 * **UAST: Uncertainty-Aware Siamese Tracking**, Dawei Zhang 1 Yanwei Fu 2 Zhonglong Zheng, 
 [[Paper](https://proceedings.mlr.press/v162/zhang22g/zhang22g.pdf)]
