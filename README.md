@@ -29,7 +29,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/pdf/2303.16580v1.pdf)] 
 [[Code](https://github.com/Little-Podi/GRM)]
 
-* ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data, 
+* **ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data**, 
 [[Paper](https://arxiv.org/pdf/2303.13885.pdf)] 
 [[Code](https://arkittrack.github.io/)]
 
