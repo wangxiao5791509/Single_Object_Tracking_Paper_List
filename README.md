@@ -25,6 +25,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2023 
 
+* **DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks**, Qiangqiang Wu Tianyu Yang* Ziquan Liu Baoyuan Wu Ying Shan Antoni B. Chan, cvpr-2023 
+[[Paper]](https://arxiv.org/pdf/2304.00571.pdf) 
+[[Code]](https://github.com/jimmy-dq/DropMAE)
+
 * **Generalized Relation Modeling for Transformer Tracking**, Shenyuan Gao, Chunluan Zhou, Jun Zhang
 [[Paper](https://arxiv.org/pdf/2303.16580v1.pdf)] 
 [[Code](https://github.com/Little-Podi/GRM)]
