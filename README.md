@@ -68,7 +68,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **Resource-Efficient RGBD Aerial Tracking**, Jinyu Yang · Shang Gao · Zhe Li · Feng Zheng · Ales Leonardis 
 [[Paper]()]
 
-* **Tracking through Containers and Occluders in the Wild, ** Basile Van Hoorick · Pavel Tokmakov · Simon Stent · Jie Li · Carl Vondrick 
+* **Tracking through Containers and Occluders in the Wild** Basile Van Hoorick · Pavel Tokmakov · Simon Stent · Jie Li · Carl Vondrick 
 
 * **Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**, Ziqi Pang · Jie Li · Pavel Tokmakov · Dian Chen · Sergey Zagoruyko · Yu-Xiong Wang 
 [[Paper](https://arxiv.org/pdf/2302.03802.pdf)] 
