@@ -55,7 +55,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/pdf/2303.16580.pdf)] 
 [[Code](https://github.com/Little-Podi/GRM)] 
 
-* **Frame-Event Alignment and Fusion Network for High Frame Rate Tracking, ** Jiqing Zhang · Yuanchen Wang · Wenxi Liu · Meng Li · Jinpeng Bai · Baocai Yin · Xin Yang 
+* **Frame-Event Alignment and Fusion Network for High Frame Rate Tracking** Jiqing Zhang · Yuanchen Wang · Wenxi Liu · Meng Li · Jinpeng Bai · Baocai Yin · Xin Yang 
 [[Paper]()] 
 [[Code]()]
 
