@@ -25,6 +25,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2023 
 
+* **"SeqTrack: Sequence to Sequence Learning for Visual Object Tracking."**  Chen, Xin, et al.  CVPR 2023 
+[[Paper](https://arxiv.org/abs/2304.14394)]
+[[Code](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
+ 
 * **DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks**, Qiangqiang Wu Tianyu Yang* Ziquan Liu Baoyuan Wu Ying Shan Antoni B. Chan, cvpr-2023 
 [[Paper]](https://arxiv.org/pdf/2304.00571.pdf) 
 [[Code]](https://github.com/jimmy-dq/DropMAE)
