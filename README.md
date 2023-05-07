@@ -23,7 +23,75 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Github](https://github.com/Tchuanm/SFTransT)] 
 
 
+
+
+
+
+
+
+
+
+
 ### CVPR-2023 
+
+
+* **Representation Learning for Visual Object Tracking by Masked Appearance Transfer**, Haojie Zhao · Dong Wang · Huchuan Lu 
+[[Paper]()] 
+
+* **Bridging Search Region Interaction with Template for RGB-T Tracking, **Tianrui Hui · Zizheng Xun · Fengguang Peng · Junshi Huang · Xiaoming Wei · Xiaolin Wei · Jiao Dai · Jizhong Han · Si Liu 
+[[Paper]()]
+
+* **ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data,** Haojie Zhao · Junsong Chen · Lijun Wang · Huchuan Lu 
+[[Paper](https://arxiv.org/abs/2303.13885)] 
+[[Code](https://arkittrack.github.io/)]
+
+* **Efficient RGB-T Tracking via Cross-Modality Distillation,** Tianlu Zhang · Hongyuan Guo · Qiang Jiao · Qiang Zhang · Jungong Han 
+
+* **Propagate And Calibrate: Real-time Passive Non-line-of-sight Tracking**, Yihao Wang · Zhigang Wang · Bin Zhao · Dong Wang · Mulin Chen · Xuelong Li 
+[[Paper](https://arxiv.org/pdf/2303.11791.pdf)] 
+[[Code](https://againstentropy.github.io/NLOS-Track/)]
+
+* **Generalized Relation Modeling for Transformer Tracking**, Shenyuan Gao · Chunluan Zhou · Jun Zhang 
+[[Paper](https://arxiv.org/pdf/2303.16580.pdf)] 
+[[Code](https://github.com/Little-Podi/GRM)] 
+
+* **Frame-Event Alignment and Fusion Network for High Frame Rate Tracking, ** Jiqing Zhang · Yuanchen Wang · Wenxi Liu · Meng Li · Jinpeng Bai · Baocai Yin · Xin Yang 
+[[Paper]()] 
+[[Code]()]
+
+* **Unsupervised Contour Tracking of Live Cells by Mechanical and Cycle Consistency Losses**, Junbong Jang · Kwonmoo Lee · Tae-Kyun Kim 
+[[Paper](https://arxiv.org/pdf/2303.08364.pdf)] 
+[[Code](https://github.com/JunbongJang/contour-tracking/)]
+
+* **Autoregressive Visual Tracking**, Xing Wei · Yifan Bai · Yongchao Zheng · Dahu Shi · Yihong Gong 
+
+* **Resource-Efficient RGBD Aerial Tracking**, Jinyu Yang · Shang Gao · Zhe Li · Feng Zheng · Ales Leonardis 
+[[Paper]()]
+
+* **Tracking through Containers and Occluders in the Wild, ** Basile Van Hoorick · Pavel Tokmakov · Simon Stent · Jie Li · Carl Vondrick 
+
+* **Standing Between Past and Future: Spatio-Temporal Modeling for Multi-Camera 3D Multi-Object Tracking**, Ziqi Pang · Jie Li · Pavel Tokmakov · Dian Chen · Sergey Zagoruyko · Yu-Xiong Wang 
+[[Paper](https://arxiv.org/pdf/2302.03802.pdf)] 
+[[Code](https://github.com/TRI-ML/PF-Track)]
+
+* **Unifying Short and Long-Term Tracking with Graph Hierarchies,** Orcun Cetintas · Guillem Braso · Laura Leal-Taixé 
+[[Paper](https://arxiv.org/pdf/2212.03038.pdf)] 
+[[Code](https://github.com/dvl-tum/SUSHI)]
+
+* **VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking** , Yukang Chen · Jianhui Liu · Xiangyu Zhang · XIAOJUAN QI · Jiaya Jia 
+[[Paper](https://arxiv.org/pdf/2303.11301.pdf)] 
+[[Code](https://github.com/dvlab-research/VoxelNeXt)] 
+
+* **Constrained Evolutionary Diffusion Filter for Monocular Endoscope Tracking**, Xiongbiao Luo 
+[[Paper]()] 
+
+* **DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks**, Qiangqiang Wu · Tianyu Yang · Ziquan Liu · Baoyuan Wu · Ying Shan · Antoni Chan, 
+[[Paper](https://arxiv.org/pdf/2304.00571.pdf)] 
+[[Code](https://github.com/jimmy-dq/DropMAE)]
+
+* **CXTrack: Improving 3D Point Cloud Tracking with Contextual Information**, Tian-Xing Xu · Yuan-Chen Guo · Yu-Kun Lai · Song-Hai Zhang 
+[[Paper](https://arxiv.org/pdf/2211.08542.pdf)] 
+[[Code](https://github.com/slothfulxtx/cxtrack3d)] 
 
 * **Data-driven Feature Tracking for Event Cameras**, Nico Messikommer · Carter Fang · Mathias Gehrig · Davide Scaramuzza 
 [[Paper](https://arxiv.org/pdf/2211.12826.pdf)] 
@@ -46,11 +114,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 [[Paper](https://arxiv.org/pdf/2303.13885.pdf)] 
 [[Code](https://arkittrack.github.io/)]
 
-* **Joint Visual Grounding and Tracking with Natural Language Specification**, Li Zhou, Zikun Zhou, Kaige Mao, and Zhenyu He 
+* **Joint Visual Grounding and Tracking with Natural Language Specification**, Li Zhou · Zikun Zhou · Kaige Mao · Zhenyu He 
 [[Paper](https://arxiv.org/pdf/2303.12027.pdf)] 
 [[Code](https://github.com/lizhou-cs/JointNLT)]
 
-* **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu Simiao Lai Xin Chen, Dong Wang, Huchuan Lu 
+* **Visual Prompt Multi-Modal Tracking**, Jiawen Zhu · Simiao Lai · Xin Chen · Dong Wang · Huchuan Lu 
 [[Paper](https://arxiv.org/pdf/2303.10826.pdf)] 
 [[Code](https://github.com/jiawen-zhu/ViPT)]
 
