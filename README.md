@@ -25,6 +25,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR-2023 
 
+* **Data-driven Feature Tracking for Event Cameras**, Nico Messikommer · Carter Fang · Mathias Gehrig · Davide Scaramuzza 
+[[Paper](https://arxiv.org/pdf/2211.12826.pdf)] 
+[[Code](https://github.com/uzh-rpg/deep_ev_tracker)] 
+[[DemoVideo](https://www.youtube.com/watch?v=dtkXvNXcWRY&ab_channel=UZHRoboticsandPerceptionGroup)] 
+
 * **"SeqTrack: Sequence to Sequence Learning for Visual Object Tracking."**  Chen, Xin, et al.  CVPR 2023 
 [[Paper](https://arxiv.org/abs/2304.14394)]
 [[Code](https://github.com/microsoft/VideoX/tree/master/SeqTrack)]
