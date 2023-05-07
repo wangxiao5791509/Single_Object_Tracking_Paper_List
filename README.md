@@ -38,7 +38,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **Representation Learning for Visual Object Tracking by Masked Appearance Transfer**, Haojie Zhao · Dong Wang · Huchuan Lu 
 [[Paper]()] 
 
-* **Bridging Search Region Interaction with Template for RGB-T Tracking, **Tianrui Hui · Zizheng Xun · Fengguang Peng · Junshi Huang · Xiaoming Wei · Xiaolin Wei · Jiao Dai · Jizhong Han · Si Liu 
+* **Bridging Search Region Interaction with Template for RGB-T Tracking** Tianrui Hui · Zizheng Xun · Fengguang Peng · Junshi Huang · Xiaoming Wei · Xiaolin Wei · Jiao Dai · Jizhong Han · Si Liu 
 [[Paper]()]
 
 * **ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data,** Haojie Zhao · Junsong Chen · Lijun Wang · Huchuan Lu 
