@@ -28,13 +28,12 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### ICCV-2023 
+* **Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-Trackers**, Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu 
+
 * **PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**, Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PVT_A_Simple_End-to-End_Latency-Aware_Visual_Tracking_Framework_ICCV_2023_paper.pdf)]
-[[Code]()]
 
 * **Tracking by 3D Model Estimation of Unknown Objects in Videos**, Denys Rozumnyi, Jiří Matas, Marc Pollefeys, Vittorio Ferrari, Martin R. Oswald 
-[[Paper]()]
-[[Code]()]
 
 * **TrackFlow: Multi-Object tracking with Normalizing Flows**, Gianluca Mancusi, Aniello Panariello, Angelo Porrello, Matteo Fabbri, Simone Calderara, Rita Cucchiara
 
