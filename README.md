@@ -8,6 +8,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### Pre-print: 
 
+* **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**, Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang
+ [[arXiv](https://arxiv.org/abs/2309.14611)] [[Github](https://github.com/Event-AHU/EventVOT_Benchmark)] 
+
 * **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian
 [[Paper](https://arxiv.org/abs/2211.11010)]
 [[Github](https://github.com/Event-AHU/COESOT)] 
