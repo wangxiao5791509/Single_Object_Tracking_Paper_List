@@ -58,8 +58,40 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 * **MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**, Ruopeng Gao, Limin Wang
 
-* 
+* **Robust Object Modeling for Visual Tracking**, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu
 
+* **Delving into Motion-Aware Matching for Monocular 3D Object Tracking**, Kuan-Chih Huang, Ming-Hsuan Yang, Yi-Hsuan Tsai
+
+* **Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation**, Yuanyou Xu, Zongxin Yang, Yi Yang
+
+* **3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking**, Shuxiao Ding, Eike Rehder, Lukas Schneider, Marius Cordts, Juergen Gall
+
+* **Object-Centric Multiple Object Tracking**, Zixu Zhao, Jiaze Wang, Max Horn, Yizhuo Ding, Tong He, Zechen Bai, Dominik Zietlow, Carl-Johann Simon-Gabriel, Bing Shuai, Zhuowen Tu, Thomas Brox, Bernt Schiele, Yanwei Fu, Francesco Locatello, Zheng Zhang, Tianjun Xiao
+
+* **TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**, Xuesong Chen, Shaoshuai Shi, Chao Zhang, Benjin Zhu, Qiang Wang, Ka Chun Cheung, Simon See, Hongsheng Li
+
+* **MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors**, Tian-Xing Xu, Yuan-Chen Guo, Yu-Kun Lai, Song-Hai Zhang
+
+* **Tracking Everything Everywhere All at Once**, Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely
+
+* **SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes**, Yutao Cui, Chenkai Zeng, Xiaoyu Zhao, Yichun Yang, Gangshan Wu, Limin Wang
+
+* **Uncertainty-aware Unsupervised Multi-Object Tracking**, Kai Liu, Sheng Jin, Zhihang Fu, Ze Chen, Rongxin Jiang, Jieping Ye
+
+* **Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking**, Shuiwang Li, Yangxiang Yang, Dan Zeng, Xucheng Wang
+
+* **Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking**, Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu
+
+* **DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**, Mattia Segu, Bernt Schiele, Fisher Yu
+
+* **Multiple Planar Object Tracking**, Zhicheng Zhang, Shengzhe Liu, Jufeng Yang
+
+* **End-to-end 3D Tracking with Decoupled Queries**, Yanwei Li, Zhiding Yu, Jonah Philion, Anima Anandkumar, Sanja Fidler, Jiaya Jia, Jose Alvarez
+
+* **360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking**, Huajian Huang, Yinzhe Xu, Yingshu Chen, Sai-Kit Yeung
+
+* **Tracking without Label: Unsupervised Multiple Object Tracking via Contrastive Similarity Learning**, Sha Meng, Dian Shao, Jiacheng Guo, Shan Gao
+ 
 
 
 
