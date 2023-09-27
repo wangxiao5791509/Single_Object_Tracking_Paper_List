@@ -27,6 +27,39 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 
+### ICCV-2023 
+* **PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**, Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_PVT_A_Simple_End-to-End_Latency-Aware_Visual_Tracking_Framework_ICCV_2023_paper.pdf)]
+[[Code]()]
+
+* **Tracking by 3D Model Estimation of Unknown Objects in Videos**, Denys Rozumnyi, Jiří Matas, Marc Pollefeys, Vittorio Ferrari, Martin R. Oswald 
+[[Paper]()]
+[[Code]()]
+
+* **TrackFlow: Multi-Object tracking with Normalizing Flows**, Gianluca Mancusi, Aniello Panariello, Angelo Porrello, Matteo Fabbri, Simone Calderara, Rita Cucchiara
+
+* **A Fast Unified System for 3D Object Detection and Tracking**, Thomas Heitzinger, Martin Kampel
+
+* **MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency**, Qiao Wu, Jiaqi Yang, Kun Sun, Chu'ai Zhang, Yanning Zhang, Mathieu Salzmann
+
+* **Foreground-Background Distribution Modeling Transformer for Visual Object Tracking**, Dawei Yang, Jianfeng He, Yinchao Ma, Qianjin Yu, Tianzhu Zhang
+
+* **Tracking Anything with Decoupled Video Segmentation**, Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee
+
+* **ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking**, Cheng-Che Cheng, Min-Xuan Qiu, Chen-Kuo Chiang, Shang-Hong Lai
+
+* **Heterogeneous Diversity Driven Active Learning for Multi-Object Tracking**, Rui Li, Baopeng Zhang, Jun Liu, Wei Liu, Jian Zhao, Zhu Teng
+
+* **Humans in 4D: Reconstructing and Tracking Humans with Transformers**, Shubham Goel, Georgios Pavlakos, Jathushan Rajasegaran, Angjoo Kanazawa, Jitendra Malik
+
+* **Realistic Full-Body Tracking from Sparse Observations via Joint-Level Modeling**, Xiaozheng Zheng, Zhuo Su, Chao Wen, Zhou Xue, Xiaojie Jin
+
+* **PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking**, Yang Zheng, Adam W. Harley, Bokui Shen, Gordon Wetzstein, Leonidas J. Guibas
+
+* **MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**, Ruopeng Gao, Limin Wang
+
+* 
+
 
 
 
