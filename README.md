@@ -28,6 +28,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### ICCV-2023 
+
+* **ReST: A Reconfigurable Spatial-Temporal Graph Model for Multi-Camera Multi-Object Tracking**, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_ReST_A_Reconfigurable_Spatial-Temporal_Graph_Model_for_Multi-Camera_Multi-Object_Tracking_ICCV_2023_paper.pdf)] [[Code](https://github.com/chengche6230/ReST)] 
+
 * **Cross-Modal Orthogonal High-Rank Augmentation for RGB-Event Transformer-Trackers**, Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu 
 
 * **PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework**, Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu
