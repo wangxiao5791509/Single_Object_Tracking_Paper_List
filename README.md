@@ -25,7 +25,30 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * **Learning Spatial-Frequency Transformer for Visual Object Tracking**, Chuanming Tang, Xiao Wang*, Yuanchao Bai, Zhe Wu, Jianlin Zhang, Yongmei Huang, arXiv:2208.08829
 -2022 
 [[arXiv](https://arxiv.org/abs/2208.08829)]
-[[Github](https://github.com/Tchuanm/SFTransT)] 
+[[Github](https://github.com/Tchuanm/SFTransT)]
+
+
+
+### AAAI-2024 
+
+* **ODTrack: Online Dense Temporal Token Learning for Visual Tracking**, Yaozong Zheng; Bineng Zhong; Qihua Liang; Zhiyi Mo; Shengping Zhang; Xianxian Li
+* **Robust 3D Tracking with Quality-Aware Shape Completion** Jingwen Zhang; Zikun Zhou; Guangming Lu; Jiandong Tian; Wenjie Pei
+* **Explicit Visual Prompts for Visual Object Tracking** Liangtao Shi; Bineng Zhong; Qihua Liang; Ning Li; Shengping Zhang; Xianxian Li
+* **Unifying Visual and Vision-Language Tracking via Contrastive Learning** Yinchao Ma; Yuyang Tang; Wenfei Yang; Tianzhu Zhang; Jinpeng Zhang; Mengxue Kang
+* **Modeling Continuous Motion for 3D Point Cloud Object Tracking** Zhipeng Luo; Gongjie Zhang; Changqing Zhou; Zhonghua Wu; Qingyi Tao; Lewei Lu; Shijian Lu
+* **Temporal Adaptive RGBT Tracking with Modality Prompt** Hongyu Wang; Xiaotao Liu; Yifan Li; Meng Sun; Dian Yuan; Jing Liu
+* **Sampling-Resilient Multi-Object Tracking** Zepeng Li; Dongxiang Zhang; Sai Wu; Mingli Song; Gang Chen
+* **DiffusionTrack: Diffusion Model for Multi-Object Tracking** Run Luo; Zikai Song; Lintao Ma; Jinlin Wei; Wei Yang; Min Yang
+* **Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking** Kun Hu; Wenjing Yang; Wanrong Huang; Xianchen Zhou; Mingyu Cao; Jing Ren; Huibin Tan
+* **CTO-SLAM: Contour Tracking for Object-Level Robust 4D SLAM** Xiaohan Li; Dong Liu; Jun Wu
+* **Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes for Multiple Object Tracking**, Yan Gao; Haojun Xu; Jie Li; Nannan Wang; Xinbo Gao
+* **Bi-directional Adapter for Multimodal Tracking** Bing Cao; Junliang Guo; Pengfei Zhu; Qinghua Hu
+* **M3SOT: Multi-Frame, Multi-Field, Multi-Space 3D Single Object Tracking** Jiaming Liu; Yue Wu; Maoguo Gong; Qiguang Miao; Wenping Ma; Cai Xu; Can Qin
+* **KPA-Tracker: Towards Robust and Real-Time Category-Level Articulated Object 6D Pose Tracking**, Liu Liu; Anran Huang; Qi Wu; Dan Guo; Xun Yang; Meng Wang
+* **SMILEtrack: SiMIlarity LEarning for Occlusion-Aware Multiple Object Tracking** Wang Yu Hsiang; Jun-Wei Hsieh; Ping-Yang Chen; Ming-Ching Chang; Hung Hin So; Xin Li
+* **UCMCTrack: Multi-Object Tracking with Uniform Camera Motion Compensation** Kefu Yi; Kai Luo; Xiaolei Luo; Jiangui Huang; Hao Wu; Rongdong Hu; Wei Hao
+* **Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking** Mingzhan Yang; Guangxin Han; Bin Yan; Wenhua Zhang; Jinqing Qi; Huchuan Lu; Dong Wang
+* **Generative-Based Fusion Mechanism for Multi-Modal Tracking** Zhangyong Tang; Tianyang Xu; Xiaojun Wu; Xue-Feng Zhu; Josef Kittler
 
 
 
