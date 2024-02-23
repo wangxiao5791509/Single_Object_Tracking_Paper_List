@@ -35,7 +35,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
   [[Paper](https://arxiv.org/pdf/2401.11204.pdf)]
   [[Code](https://github.com/Haooozi/CUTrack)]
 
-* 
+
+### NIPS-2024 
+* **Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**, Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, Weifeng Ge, Wenqiang Zhang
+  [[Paper](https://arxiv.org/abs/2402.14392)]
 
 
 
