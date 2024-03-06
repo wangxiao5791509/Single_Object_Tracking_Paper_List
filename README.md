@@ -20,6 +20,11 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 ### CVPR 2024 
+
+* **RTracker: Recoverable Tracking via PN Tree Structured Memory**, 
+  [[Paper]()]
+  [[Code](https://github.com/NorahGreen/RTracker)]  
+
 * **[New Benchmark Dataset and Baseline]** **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.
   [[Paper](https://arxiv.org/abs/2309.14611)]
   [[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
