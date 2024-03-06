@@ -8,30 +8,19 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### Pre-print: 
 
-* **[New Benchmark Dataset and Baseline]** "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826. [[arXiv](https://arxiv.org/abs/2401.02826)]
-
-* **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**, Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang
- [[arXiv](https://arxiv.org/abs/2309.14611)] [[Github](https://github.com/Event-AHU/EventVOT_Benchmark)] 
+* "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826. [[arXiv](https://arxiv.org/abs/2401.02826)]
 
 * **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian
 [[Paper](https://arxiv.org/abs/2211.11010)]
 [[Github](https://github.com/Event-AHU/COESOT)] 
 [[DemoVideo](https://youtu.be/_ROv09rvi2k)]
 
-* **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
-
-* **WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking**, Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Yuxuan Zhang, Xiang Wan, Shiming Ge, [[Paper](https://arxiv.org/pdf/2201.07425.pdf)] [[Github](https://github.com/983632847/WebUAV-3M)]
-
-* **Learning Spatial-Frequency Transformer for Visual Object Tracking**, Chuanming Tang, Xiao Wang*, Yuanchao Bai, Zhe Wu, Jianlin Zhang, Yongmei Huang, arXiv:2208.08829
--2022 
-[[arXiv](https://arxiv.org/abs/2208.08829)]
-[[Github](https://github.com/Tchuanm/SFTransT)]
-
+* [IEEE TCYB-2023] **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
 
 
 
 ### CVPR 2024 
-* **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang (2023).
+* **[New Benchmark Dataset and Baseline]** **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.
   [[Paper](https://arxiv.org/abs/2309.14611)]
   [[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
   [[DemoVideo](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz)] 
