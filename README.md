@@ -8,7 +8,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### Pre-print: 
 
-* "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826 (2024). [[arXiv](https://arxiv.org/abs/2401.02826)]
+* **[New Benchmark Dataset and Baseline]** "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826. [[arXiv](https://arxiv.org/abs/2401.02826)]
 
 * **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**, Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang
  [[arXiv](https://arxiv.org/abs/2309.14611)] [[Github](https://github.com/Event-AHU/EventVOT_Benchmark)] 
