@@ -30,6 +30,14 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 
+### CVPR 2024 
+* **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang (2023).
+  [[Paper](https://arxiv.org/abs/2309.14611)]
+  [[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+  [[DemoVideo](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz)] 
+
+
+
 ### ICLR-2024 
 * Nie, Jiahao, et al. "**Towards Category Unification of 3D Single Object Tracking on Point Clouds.**" arXiv preprint arXiv:2401.11204 (2024).
   [[Paper](https://arxiv.org/pdf/2401.11204.pdf)]
