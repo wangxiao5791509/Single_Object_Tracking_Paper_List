@@ -8,6 +8,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### Pre-print: 
 
+
+* **VastTrack: Vast Category Visual Object Tracking**, Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang
+  [[Paper](https://arxiv.org/abs/2403.03493)] 
+
 * "**CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras**." Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, Jin Tang. arXiv preprint arXiv:2401.02826. [[arXiv](https://arxiv.org/abs/2401.02826)]
 
 * **Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric**, Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian
