@@ -25,6 +25,9 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR 2024 
 
+* **OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**, Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang
+  [[Paper](https://arxiv.org/abs/2403.09634)] 
+
 * **RTracker: Recoverable Tracking via PN Tree Structured Memory**, 
   [[Paper]()]
   [[Code](https://github.com/NorahGreen/RTracker)]  
