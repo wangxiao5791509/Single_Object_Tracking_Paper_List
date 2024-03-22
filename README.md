@@ -25,14 +25,72 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### CVPR 2024 
 
+
+
+* **DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking**,
+  Fei Xie (None) · Zhongdao Wang (Huawei Technologies Ltd.) · Chao Ma (Shanghai Jiao Tong University)
+
+* **SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking**,
+  Xiaojun Hou (Zhejiang University) · Jiazheng Xing (Zhejiang University) · Yijie Qian (Zhejiang University) · Yaowei Guo (Zhejiang University) · Shuo Xin (Zhejiang University of Technology) · Junhao Chen (Zhejiang University) · Kai Tang (Zhejiang University) · Mengmeng Wang (Zhejiang University) · Zhengkai Jiang (Tencent) · Liang Liu (Tencent Youtu Lab) · Yong Liu (Zhejiang University)
+
+* **Context-Aware Integration of Language and Visual References for Natural Language Tracking**,
+  Yanyan Shao (None) · Shuting He (Nanyang Technological University) · Qi Ye (Zhejiang University) · Yuchao Feng (None) · Wenhan Luo (SUN YAT-SEN UNIVERSITY) · Jiming Chen (Zhejiang University)
+
+* **HIPTrack: Visual Tracking with Historical Prompts**,
+  Wenrui Cai (Beihang University) · Qingjie Liu (None) · Yunhong Wang (Beihang University)
+
+* **Dense Optical Tracking: Connecting the Dots**,
+  Guillaume Le Moing (Inria) · Jean Ponce (Ecole Normale Supérieure de Paris) · Cordelia Schmid (Inria / Google)
+
+* **FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking**,
+  Seokju Cho (Korea University) · Gabriel Huang (None) · Seungryong Kim (Korea University) · Joon-Young Lee (Adobe Research)
+
+* **Towards Generalizable Multi-Object Tracking**,
+  Zheng Qin () · Le Wang (Xi'an Jiaotong University) · Sanping Zhou (Xi'an Jiaotong University) · Panpan Fu (Xi'an Jiaotong University) · Gang Hua (Wormpex AI Research) · Wei Tang (University of Illinois, Chicago)
+
+* **MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark**, 
+  Sanghyun Woo (New York University) · Kwanyong Park ( Electronics and Telecommunication Research Institute) · Inkyu Shin (Korea Advanced Institute of Science & Technology) · Myungchul Kim (Korea Advanced Institute of Science & Technology) · In So Kweon (Korea Advanced Institute of Science and Technology)
+
+* **NetTrack: Tracking Highly Dynamic Objects with a Net**,
+  Guangze Zheng (The University of Hong Kong) · Shijie Lin (None) · Haobo Zuo (University of Hong Kong) · Changhong Fu (Tongji University) · Jia Pan (University of Hong Kong)
+
+* **SpatialTracker: Tracking Any 2D Pixels in 3D Space**,
+  Yuxi Xiao (Zhejiang University) · Qianqian Wang (Cornell University) · Shangzhan Zhang (Zhejiang University) · Nan Xue (Ant Group) · Sida Peng (None) · Yujun Shen (The Chinese University of Hong Kong) · Xiaowei Zhou (None)
+
+* **Single-Model and Any-Modality for Video Object Tracking**,
+  Zongwei Wu (Bayerische Julius-Maximilians-Universität Würzburg) · Jilai Zheng (Shanghai Jiaotong University) · Xiangxuan Ren (Shanghai Jiao Tong University) · Florin-Alexandru Vasluianu (Bayerische Julius-Maximilians-Universität Würzburg) · Chao Ma (Shanghai Jiao Tong University) · Danda Paudel (None) · Luc Van Gool (ETH Zurich) · Radu Timofte (University of Würzburg)
+
+* **DPHMs: Diffusion Parametric Head Models for Depth-based Tracking**,
+  Jiapeng Tang (Technische Universität München) · Angela Dai () · Yinyu Nie (Huawei Technologies Ltd.) · Lev Markhasin (None) · Justus Thies (Max-Planck Institute for Intelligent Systems) · Matthias Nießner (Technical University of Munich)
+
+* **3D Face Tracking from 2D Video through Iterative Dense UV to Image Flow**,
+  Felix Taubner (LG Electronics) · Prashant Raina (LG Electronics) · Mathieu Tuli (LG Electronics Canada Incorporated, TAIL) · Eu Wern Teh (LG Corporation) · Chul Lee (Department of Computer Science, University of Toronto) · Jinmiao Huang (Meta)
+
+* **DriveTrack: A Benchmark for Long-Range Point Tracking in Real-World Videos**, 
+  Arjun Balasingam (Massachusetts Institute of Technology) · Joseph Chandler (Massachusetts Institute of Technology) · Chenning Li (None) · Zhoutong Zhang (Adobe Systems) · Hari Balakrishnan (Massachusetts Institute of Technology)
+
+* **Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers**,
+  Jinxia Xie (Guangxi Normal University) · Bineng Zhong (Guangxi Normal University) · Zhiyi Mo (Wuzhou university) · Shengping Zhang (Harbin Institute of Technology) · Liangtao Shi (Guangxi Normal University) · Shuxiang Song (Guangxi Normal University) · Rongrong Ji (Xiamen University)
+
+* **LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**,
+  Weirong Chen (Technical University of Munich) · Le Chen (Max Planck Institute for Intelligent Systems, Max-Planck Institute) · Rui Wang (Microsoft) · Marc Pollefeys (ETH Zurich / Microsoft)
+
+* **Instance Tracking in 3D Scenes from Egocentric Videos**, Yunhan Zhao (University of California, Irvine) · Haoyu Ma (University of California, Irvine) · Shu Kong (None) · Charless Fowlkes (University of California, Irvine)
+
+* **3D Feature Tracking at 250 FPS via Event Camera**, Siqi Li (Tsinghua University) · Zhou Zhikuan (None) · Zhou Xue (Li Auto) · Yipeng Li (Tsinghua University, Tsinghua University) · Shaoyi Du (Xi'an Jiaotong University) · Yue Gao (Tsinghua University, Tsinghua University)
+
+* **CodedEvents: Optimal Point-Spread-Function Engineering for 3D-Tracking with Event Cameras**, Sachin Shah (University of Maryland, College Park) · Matthew Chan (Department of Computer Science, University of Maryland, College Park) · Haoming Cai (University of Maryland, College Park) · Jingxi Chen (University of Maryland College Park) · Sakshum Kulshrestha (University of Maryland, College Park) · Chahat Deep Singh (University of Maryland, College Park) · Yiannis Aloimonos (University of Maryland, College Park) · Christopher Metzler (University of Maryland, College Park) 
+
 * **OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**, Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Chen, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang
   [[Paper](https://arxiv.org/abs/2403.09634)] 
 
 * **RTracker: Recoverable Tracking via PN Tree Structured Memory**, 
+  Yuqing Huang (Harbin Institute of Technology) · Xin Li (Peng Cheng Laboratory) · Zikun Zhou (Peng Cheng Laboratory) · Yaowei Wang (Pengcheng Laboratory) · Zhenyu He (Harbin Institute of Technology, Shenzhen) · Ming-Hsuan Yang (University of California at Merced) 
   [[Paper]()]
   [[Code](https://github.com/NorahGreen/RTracker)]  
 
-* **[New Benchmark Dataset and Baseline]** **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.
+* **[New Benchmark Dataset and Baseline]** **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline**,
+  Xiao Wang (Anhui University) · Shiao Wang (None) · Chuanming Tang (University of Chinese Academy of Sciences) · Lin Zhu (Beijing Institute of Technology) · Bo Jiang (Anhui University) · Yonghong Tian (Peking University) · Jin Tang (Anhui University) 
   [[Paper](https://arxiv.org/abs/2309.14611)]
   [[Code](https://github.com/Event-AHU/EventVOT_Benchmark)]
   [[DemoVideo](https://youtu.be/FcwH7tkSXK0?si=GHOG7rfw4-GFd9dz)] 
