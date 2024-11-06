@@ -23,9 +23,77 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 
+### ECCV 2024 
+
+* "**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**" Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang*, Yong Xu, Haibin Ling*
+[[Paper]()]
+
+* **3D Single-object Tracking in Point Clouds with High Temporal Variation**,
+  Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang*
+[[Paper]()]
+
+* **OneTrack: Demystifying the Conflict Between Detection and Tracking in End-to-End 3D Trackers**,
+  Qitai Wang, Jiawei He, Yuntao Chen, Zhaoxiang Zhang*
+[[]()]
+
+* **Local All-Pair Correspondence for Point Tracking**, 
+Seokju Cho, Jiahui Huang, Jisu Nam, Honggyu An, Seungryong Kim*, Joon-Young Lee*
+
+* **Boosting 3D Single Object Tracking with 2D Matching Distillation and 3D Pre-training**, 
+Qiangqiang Wu, Yan Xia*, Jia Wan, Antoni Chan
+
+* **TAPTR: Tracking Any Point with Transformers as Detection**, 
+Hongyang Li*, Hao Zhang, Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Lei Zhang*
+
+* **SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild**, 
+Pengfei Wang, Xiaofei Hui, Jing Wu, Zile Yang, Kian Eng Ong, Xinge Zhao, Beijia Lu, Dezhao Huang, Evan Ling, Weiling Chen, Keng Teck Ma, Minhoe Hur, Jun Liu*
+
+* **DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video**,
+  Narek Tumanyan*, Assaf Singer, Shai Bagon, Tali Dekel
+
+* "**SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**", 
+Siyuan Li*, Lei Ke, Yung-Hsu Yang, Luigi Piccinelli, Mattia Segù, Martin Danelljan, Luc Van Gool
+
+* Exploring the Feature Extraction and Relation Modeling For Light-Weight Transformer Tracking
+Jikai Zheng, Mingjiang Liang, Shaoli Huang, Jifeng Ning*
+
+* Beyond MOT: Semantic Multi-Object Tracking
+Yunhao Li, Qin Li, Hao Wang, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang*
+
+* Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks
+Zhewei Wu, Ruilong Yu, Qihe Liu*, Shuying Cheng, Shilin Qiu, Shijie Zhou
+
+* PapMOT: Exploring Adversarial Patch Attack against Multiple Object Tracking
+Jiahuan Long*, Tingsong Jiang*, Wen Yao*, Shuai Jia*, Weijia Zhang*, Weien Zhou*, Chao Ma*, Xiaoqian Chen*
+
+* JDT3D: Addressing the Gaps in LiDAR-Based Tracking-by-Attention
+Brian Cheong*, Jiachen Zhou*, Steven L Waslander*
+
+* Decomposition Betters Tracking Everything Everywhere
+Rui Li, Dong Liu*
+
+* Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL
+Fangwei Zhong*, Kui Wu, Hai Ci, Chu-ran Wang, Hao Chen
+
+* Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking
+Lorenzo Vaquero*, Yihong Xu, Xavier Alameda-Pineda, Victor M. Brea, Manuel Mucientes
+
+* Omni6DPose: A Benchmark and Model for Universal 6D Object Pose Estimation and Tracking
+Jiyao Zhang, Weiyao Huang, Bo Peng, Mingdong Wu, Fei Hu, Zijian Chen, Bo Zhao, Hao Dong*
+
+* Trackastra: Transformer-based cell tracking for live-cell microscopy
+Benjamin Gallusser, Martin Weigert*
+
+* Large-Scale Multi-Hypotheses Cell Tracking Using Ultrametric Contours Maps
+Jordão Bragantini*, Merlin Lange, Loïc A Royer
+
+* VETRA: A Dataset for Vehicle Tracking in Aerial Imagery - New Challenges for Multi-Object Tracking
+Jens Hellekes*, Manuel Mühlhaus, Reza Bahmanyar, Seyed Majid Azimi, Franz Kurz
+
+
+
+ 
 ### CVPR 2024 
-
-
 
 * **DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking**,
   Fei Xie (None) · Zhongdao Wang (Huawei Technologies Ltd.) · Chao Ma (Shanghai Jiao Tong University)
