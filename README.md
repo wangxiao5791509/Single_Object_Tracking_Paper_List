@@ -27,7 +27,7 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 ### AAAI 2025 
 
-* [arXiv:2412.13615] **MambaLCT: Boosting Tracking via Long-term Context State Space Model**,
+* **MambaLCT: Boosting Tracking via Long-term Context State Space Model**,
     Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song
     [[Paper](https://arxiv.org/abs/2412.13615)]
 
