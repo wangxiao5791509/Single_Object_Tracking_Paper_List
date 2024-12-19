@@ -23,6 +23,20 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 
 
 
+
+
+### AAAI 2025 
+
+* [arXiv:2412.13615] **MambaLCT: Boosting Tracking via Long-term Context State Space Model**,
+    Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song
+    [[Paper](https://arxiv.org/abs/2412.13615)]
+
+* **Robust Tracking via Mamba-based Context-aware Token Learning**,  
+  Jinxia Xie, Bineng Zhong, Qihua Liang, Ning Li, Zhiyi Mo, Shuxiang Song
+  [[Paper](https://arxiv.org/abs/2412.13611)]
+
+
+
 ### ECCV 2024 
 
 * "**Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance**" Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang*, Yong Xu, Haibin Ling*
