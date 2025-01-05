@@ -35,6 +35,10 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
   Jinxia Xie, Bineng Zhong, Qihua Liang, Ning Li, Zhiyi Mo, Shuxiang Song
   [[Paper](https://arxiv.org/abs/2412.13611)]
 
+* **Less is More: Token Context-aware Learning for Object Tracking**,
+  Chenlong Xu, Bineng Zhong, Qihua Liang, Yaozong Zheng, Guorong Li, Shuxiang Song
+  [[Paper](https://arxiv.org/abs/2501.00758)] 
+
 
 
 ### ECCV 2024 
