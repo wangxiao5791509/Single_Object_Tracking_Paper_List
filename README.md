@@ -22,7 +22,94 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * [IEEE TCYB-2023] **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
 
 
+### CVPR 2025 
 
+* **Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**,
+  chaocan xue · Bineng Zhong · Qihua Liang · Yaozong Zheng · Ning Li · Yuanliang Xue · Shuxiang Song
+
+* **GSTAR: Gaussian Surface Tracking and Reconstruction**,
+  Chengwei Zheng · Lixin Xue · Juan Jose Zarate · Jie Song
+
+* **MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**,
+  Xinqi Liu · Li Zhou · Zikun Zhou · Jianqiu Chen · Zhenyu He
+
+* **EBS-EKF: Accurate and High Frequency Event-based Star Tracking**
+Albert Reed · Connor Hashemi · Dennis Melamed · Nitesh Menon · Keigo Hirakawa · Scott McCloskey
+
+* **Prior-free 3D Object Tracking**
+Xiuqiang Song · Li Jin · Zhengxian Zhang · Jiachen Li · Fan Zhong · Guofeng Zhang · Xueying Qin
+
+* **MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**
+Haolin Qin · Tingfa Xu · Tianhao Li · Zhenxiang Chen · Tao Feng · Jianan Li
+
+* **Descriptor-In-Pixel : Point-Feature Tracking For Pixel Processor Arrays**
+Laurie Bose · Piotr Dudek · Jianing Chen
+
+* **GRAE-3DMOT: Geometry Relation-Aware Encoder for Online 3D Multi-Object Tracking**
+Hyunseop Kim · Hyo-Jun Lee · Yonguk Lee · Jinu Lee · Hanul Kim · Yeong Jun Koh
+
+* **Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking**
+You Wu · Xucheng Wang · Xiangyang Yang · Mengyuan Liu · Dan Zeng · Hengzhou Ye · Shuiwang L
+
+* **Focusing on Tracks for Online Multi-Object Tracking**
+Kyujin Shim · Kangwook Ko · YuJin Yang · Changick Kim
+
+* **Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better**
+Zihang Lai · Andrea Vedaldi
+
+* **HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos**
+Prithviraj Banerjee · Sindi Shkodrani · Pierre Moulon · Shreyas Hampali · Shangchen Han · Fan Zhang · Linguang Zhang · Jade Fountain · Edward Miller · Selen Basol · Richard Newcombe · Robert Wang · Jakob Engel · Tomas Hodan
+
+* **All-Day Multi-Camera Muti-Target Tracking**
+Huijie Fan · Yu Qiao · Yihao Zhen · Tinghui Zhao · Baojie Fan · Qiang Wang
+
+* **GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking**
+Weikang Bian · Zhaoyang Huang · Xiaoyu Shi · Yijin Li · Fu-Yun Wang · Hongsheng Li
+
+* **Exploring Temporally-Aware Features for Point Tracking**
+Inès Hyeonsu Kim · Seokju Cho · Gabriel Huang · Jung Yi · Joon-Young Lee · Seungryong Kim
+
+* **MITracker: Multi-View Integration for Visual Object Tracking**
+Mengjie Xu · Yitao Zhu · Haotian Jiang · Jiaming Li · Zhenrong Shen · Sheng Wang · Haolin Huang · Xinyu Wang · Han Zhang · Qing Yang · Qian Wang
+
+* **JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems**
+Yifan Wang · Jian Zhao · Zhaoxin Fan · Xin Zhang · Xuecheng Wu · Yudian Zhang · Lei Jin · Xinyue Li · Gang Wang · Mengxi Jia · Ping Hu · Zheng Zhu · Xuelong Li
+
+* **Exploring Historical Information for RGBE Visual Tracking with Mamba**
+Chuanyu Sun · Jiqing Zhang · Yang Wang · Huilin Ge · qianchen xia · Baocai Yin · Xin Yang
+
+* **DreamTrack: Dreaming the Future for Multimodal Visual Object Tracking**
+Mingzhe Guo · Weiping Tan · Wenyu Ran · Liping Jing · Zhipeng Zhang
+
+* **Mono3DVLT: Monocular-Video-Based 3D Visual Language Tracking**
+Hongkai Wei · YANG YANG · Shijie Sun · Mingtao Feng · Xiangyu Song · Qi Lei · Hongli Hu · Rong Wang · Huansheng Song · Naveed Akhtar · Ajmal Mian
+
+* **TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion**
+Haoyue Liu · Jinghan Xu · Yi Chang · Hanyu Zhou · Haozhi Zhao · Lin Wang · Luxin Yan
+
+* **Multiple Object Tracking as ID Prediction**
+Ruopeng Gao · Ji Qi · Limin Wang
+
+* **Omnidirectional Multi-Object Tracking**
+Kai Luo · Hao Shi · Sheng Wu · Fei Teng · Mengfei Duan · Chang Huang · Yuhang Wang · Kaiwei Wang · Kailun Yang
+
+* **SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking**
+Wenrui Cai · Qingjie Liu · Yunhong Wang
+
+* **PURA: Parameter Update-Recovery Test-Time Adaption for RGB-T Tracking**
+Zekai Shao · Yufan Hu · Bin Fan · Hongmin Liu
+
+* **Event-based Tracking of Any Point with Motion-Robust Correlation Features**
+Friedhelm Hamann · Daniel Gehrig · Filbert Febryanto · Kostas Daniilidis · Guillermo Gallego
+
+* **Dynamic Updates for Language Adaptation in Visual-Language Tracking**
+Xiaohai Li · Bineng Zhong · Qihua Liang · Zhiyi Mo · Jian Nong · Shuxiang Song
+
+* **A Distractor-Aware Memory for Visual Object Tracking with SAM2**
+Alan Lukezic · Jovana Videnović · Matej Kristan
+
+* **Autoregressive Sequential Pretraining for Visual Tracking**
+Shiyi Liang · Yifan Bai · Yihong Gong · Xing Wei
 
 
 ### AAAI 2025 
