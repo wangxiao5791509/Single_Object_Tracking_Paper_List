@@ -22,6 +22,114 @@ Paper list for single object tracking (Modified from [[benchmark_results](https:
 * [IEEE TCYB-2023] **VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows**, Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu [[Paper](https://arxiv.org/abs/2108.05015)] [[Project](https://sites.google.com/view/viseventtrack/)] [[Video](https://www.youtube.com/watch?v=U4uUjci9Gjc)] [[VideoTutorial](https://youtu.be/vGwHI2d2AX0)]
 
 
+
+### ICCV 2025 
+
+* **BlinkTrack: Feature Tracking over 80 FPS via Events and Images**,
+  Yichen Shen · Yijin Li · Shuo Chen · Guanglin Li · Zhaoyang Huang · Hujun Bao · Zhaopeng Cui · Guofeng Zhang
+
+* **ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking**,
+  Xiaokun Feng · Shiyu Hu · Xuchen Li · Dailing Zhang · Meiqi Wu · Jing Zhang · Xiaotang Chen · Kaiqi Huang
+
+* **SpatialTrackerV2: Advancing 3D Point Tracking with Explicit Camera Motion**,
+  Yuxi Xiao · Jianyuan Wang · Nan Xue · Nikita Karaev · Iurii Makarov · Bingyi Kang · Xing Zhu · Hujun Bao · Yujun Shen · Xiaowei Zhou
+
+* **Tracking Tiny Drones against Clutter: Large-Scale Infrared Benchmark with Motion-Centric Adaptive Algorithm**,
+  Jiahao Zhang · Zongli Jiang · Gang Wang · Jinli Zhang · Yixin Wei · Liang Li · Yizheng Wang
+
+* **Language Decoupling with Fine-grained Knowledge Guidance for Referring Multi-object Tracking**,
+  guangyao li · Siping Zhuang · Yajun Jian · Yan Yan · Hanzi Wang
+
+* **GSOT3D: Towards Generic 3D Single Object Tracking in the Wild**,
+  Yifan Jiao · Yunhao Li · Junhua Ding · Qing Yang · Song Fu · Heng Fan · Libo Zhang
+
+* **egoPPG: Heart Rate Estimation from Eye-Tracking Cameras in Egocentric Systems to Benefit Downstream Vision Tasks**,
+  Björn Braun · Rayan Armani · Manuel Meier · Max Moebus · Christian Holz
+
+* **Is Tracking really more challenging in First Person Egocentric Vision?**
+  Matteo Dunnhofer · Zaira Manigrasso · Christian Micheloni
+
+* **LA-MOTR: End-to-End Multi-Object Tracking by Learnable Association**,
+  Peng Wang · Yongcai Wang · Hualong Cao · Wang Chen · Deying Li
+
+* **MVTrajecter: Multi-View Pedestrian Tracking with Trajectory Motion Cost and Trajectory Appearance Cost**,
+  Taiga Yamane · Ryo Masumura · Satoshi Suzuki · Shota Orihashi
+
+* **Online Dense Point Tracking with Streaming Memory**,
+  Qiaole Dong · Yanwei Fu
+
+* **TrackAny3D: Transferring Pretrained 3D Models for Category-unified 3D Point Cloud Tracking**,
+  Mengmeng Wang · Haonan Wang · Yulong Li · Xiangjie Kong · Jiaxin Du · Feng Xia · Guojiang Shen
+
+* **Inter Inertial Poser: Multi-Human Motion Tracking from Sparse Inertial Sensors and Pairwise Inter-Sensor Distances**
+  Ying Xue · Jiaxi Jiang · Rayan Armani · Dominik Hollidt · Yi-Chi Liao · Christian Holz
+
+* **SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking**
+  Sixian Chan · Zedong Li · Xiaoqin Zhang · Wenhao Li · Shijian Lu · Chunhua Shen
+
+* **St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**
+  Haiwen Feng · Junyi Zhang · Qianqian Wang · Yufei Ye · Pengcheng Yu · Michael Black · Trevor Darrell · Angjoo Kanazawa
+
+* **General Compression Framework for Efficient Transformer Object Tracking**
+  Lingyi Hong · Jinglun Li · Xinyu Zhou · Shilin Yan · Pinxue Guo · Kaixun Jiang · Zhaoyu Chen · Shuyong Gao · Runze Li · Xingdong Sheng · Wei Zhang · Hong Lu · Wenqiang Zhang
+
+* **Event-aided Dense and Continuous Point Tracking: Everywhere and Anytime**
+  Zhexiong Wan · Jianqin Luo · Yuchao Dai · Gim Hee Lee
+
+* **CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos**,
+  Nikita Karaev · Iurii Makarov · Jianyuan Wang · Natalia Neverova · Andrea Vedaldi · Christian Rupprecht
+
+* **COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion**,
+  Zekun Qian · Ruize Han · Zhixiang Wang · Junhui Hou · Wei Feng
+
+* **UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**
+  Siyuan Yao · Rui Zhu · Ziqi Wang · Wenqi Ren · Yanyang Yan · Xiaochun Cao
+
+* **CAT: A Unified Click-and-Track Framework for Realistic Tracking**
+  Yongsheng Yuan · Jie Zhao · Dong Wang · Huchuan Lu
+
+* **Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking**
+  Yunhao Li · Yifan Jiao · Dan Meng · Heng Fan · Libo Zhang
+
+* **What You Have is What You Track: Adaptive and Robust Multimodal Tracking**, 
+  Yuedong Tan · Jiawei Shao · Eduard Zamfir · Ruanjun Li · Zhaochong An · Chao Ma · Danda Pani Paudel · Luc Gool · Radu Timofte · Zongwei Wu
+
+* **Multi-View 3D Point Tracking**
+  Frano Rajič · Haofei Xu · Marko Mihajlovic · Siyuan Li · Irem Demir · Emircan Gündoğdu · Lei Ke · Sergey Prokudin · Marc Pollefeys · Siyu Tang
+
+* **MATE: Motion-Augmented Temporal Consistency for Event-based Point Tracking**
+  Han Han · Wei Zhai · Yang Cao · Bin Li · Zheng-Jun Zha
+
+* **M2EIT: Multi-Domain Mixture of Experts for Robust Neural Inertial Tracking**
+  Yan Li · Yang Xu · Changhao Chen · Zhongchen Shi · Wei Chen · Liang Xie · Hongbo Chen · Erwei Yin
+
+* **AllTracker: Efficient Dense Point Tracking at High Resolution**
+  Adam Harley · Yang You · Yang Zheng · Xinglong Sun · Nikhil Raghuraman · Sheldon Liang · Yunqi Gu · Wen-Hsuan Chu · Suya You · Achal Dave · Rares Ambrus · Katerina Fragkiadaki · Leonidas Guibas
+
+* **ASCENT: Annotation-free Self-supervised Contrastive Embeddings for 3D Neuron Tracking in Fluorescence Microscopy**
+  Haejun Han · Hang Lu
+  
+* **Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**
+  Qiangqiang Wu · Yi Yu · Chenqi Kong · Ziquan Liu · Jia Wan · Haoliang Li · Alex Kot · Antoni Chan
+
+* **VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking**
+  Zekun Qian · Ruize Han · Junhui Hou · Linqi Song · Wei Feng
+
+* **ReTracker: Exploring Image Matching for Robust Online Any Point Tracking**
+  Dongli Tan · Xingyi He · Sida Peng · Yiqing Gong · Xing Zhu · Jiaming Sun · Ruizhen Hu · Yujun Shen · Hujun Bao · Xiaowei Zhou
+
+* **TAPNext: Tracking Any Point (TAP) as Next Token Prediction**
+  Artem Zholus · Carl Doersch · Yi Yang · Skanda Koppula · Viorica Patraucean · Xu He · Ignacio Rocco · Mehdi Sajjadi · Sarath Chandar · Ross Goroshin
+
+
+
+
+
+
+
+
+
+
 ### CVPR 2025 
 
 * **Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**,
